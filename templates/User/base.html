@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Leckerli+One|UnifrakturCook:700" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <script>
+        $(document).ready(function(){
+            $('[data-toggle="popover"]').popover();
+        });
+    </script>
+</head>
+{% from "Arrival/_formhelpers.html" import render_field %}
+<body>
+<div class="col-sm-3" style="background: aquamarine; margin: 0;">
+    <div id="ProfileEdit" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Edit Profile</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="container-fluid">
+        <div class="panel-group" style="margin-top: 10%;">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#profile">
+                        <span class="glyphicon glyphicon-user" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Profile
+                    </h3>
+                </div>
+                <div id="profile" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong>Welcome, {{ session.username }}</strong></li>
+                        <li class="list-group-item"><span class="glyphicon glyphicon-envelope" aria-hidden="true" style="float: left;"></span>{{ session.email }}</li>
+                        <li><a class="btn btn-danger" style="width: 100%; height: 100%;" href="/logout">
+                    <h3 class="panel-title" style="text-align: center;">
+                        <span class="glyphicon glyphicon-off" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Logout
+                    </h3>
+                </a></li>
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;"><a href="#" data-toggle="modal" data-target="#ProfileEdit"><span class="glyphicon glyphicon-edit" aria-hidden="true" style="float: left;"></span>Edit Profile Information</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#charts">
+                        <span class="glyphicon glyphicon-stats" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Charts
+                    </h3>
+                </div>
+
+                <div id="charts" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong><a href="/charts" class="btn btn-primary">All Charts</a></strong></li>
+                        <li class="list-group-item">You Don't Have Any Charts!</li>
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;">
+                        <form class="navbar-form" role="search" method="get" action="#">
+                            <input type="text" class="form-control" name="q" value="" style="width: 100%;">
+                            <p></p>
+                            <button type="submit" class="btn">Search Charts</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#models">
+                        <span class="glyphicon glyphicon-wrench" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;ML Models
+                    </h3>
+                </div>
+
+                <div id="models" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong><a href="/models" class="btn btn-primary">All Models</a></strong></li>
+                        <li class="list-group-item">You Don't Have Any Models!</li>
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;">
+                        <form class="navbar-form" role="search" method="get" action="#">
+                            <input type="text" class="form-control" name="q" value="" style="width: 100%;">
+                            <p></p>
+                            <button type="submit" class="btn">Search Models</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#data">
+                        <span class="glyphicon glyphicon-tasks" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Datasets
+                    </h3>
+                </div>
+
+                <div id="data" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong><a href="/datasets" class="btn btn-primary">All Datasets</a></strong></li>
+                        {% if session.data_tables|length < 1 %}
+                            <li class="list-group-item">You Don't Have Any Data Tables!</li>
+                        {% else %}
+                            {% for table in session.data_tables %}
+                                <li class="list-group-item"><strong>{{ table }}</strong></li>
+                            {% endfor %}
+                        {% endif %}
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;">
+                        <form class="navbar-form" role="search" method="get" action="#">
+                            <input type="text" class="form-control" name="q" value="" style="width: 100%;">
+                            <p></p>
+                            <button type="submit" class="btn">Search Datasets</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#sources">
+                        <span class="glyphicon glyphicon-filter" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Data Sources
+                    </h3>
+                </div>
+
+                <div id="sources" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong><a href="/datasources" class="btn btn-primary">Configure Data Sources</a></strong></li>
+                        {% if session.data_sources|length < 1 %}
+                            <li class="list-group-item">You Don't Have Any DataSources!</li>
+                        {% else %}
+                            {% for source in session.data_sources %}
+                                <li class="list-group-item"><strong>{{ source }}</strong></li>
+                            {% endfor %}
+                        {% endif %}
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#projects">
+                        <span class="glyphicon glyphicon-folder-open" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Projects
+                    </h3>
+                </div>
+
+                <div id="projects" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong><a href="/projects" class="btn btn-primary">All Projects</a></strong></li>
+                        <li class="list-group-item">You Don't Have Any Projects!</li>
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;">
+                        <form class="navbar-form" role="search" method="get" action="#">
+                            <input type="text" class="form-control" name="q" value="" style="width: 100%;">
+                            <p></p>
+                            <button type="submit" class="btn">Search Projects</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-group">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title" style="text-align: center;" data-toggle="collapse" href="#groups">
+                        <span class="glyphicon glyphicon-globe" aria-hidden="true" style="float: right;"></span>&nbsp;&nbsp;Groups
+                    </h3>
+                </div>
+
+                <div id="groups" class="panel-collapse collapse">
+                    <ul class="list-group" style="text-align: center;">
+                        <li class="list-group-item"><strong><a href="/groups" class="btn btn-primary">Find A Group</a></strong></li>
+                        <li class="list-group-item">You aren't in any groups!</li>
+                    </ul>
+                    <div class="panel-footer" style="text-align: center;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-1" style="background-color: cadetblue; height: 1000px;"></div>
+<div class="col-sm-7">
+    {% block body %}
+    {%  endblock %}
+</div>
+<div class="col-sm-1" style="background-color: cadetblue; height: 1000px;"></div>
+</body>
+</html>
