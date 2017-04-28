@@ -1,0 +1,82 @@
+[33mcommit b908dcd110a5f10c3c56c5d78c8193ec78bc05c3[m
+Author: Tristen Harr <Tristenharr@gmail.com>
+Date:   Fri Apr 28 01:54:21 2017 -0500
+
+    Initial Commit
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9896b68[m
+[1m--- /dev/null[m
+[1m+++ b/.gitignore[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m*.db[m
+[32m+[m[32m*.txt[m
+[32m+[m[32m/USERS/*/[m
+[32m+[m[32m*.idea/*[m
+\ No newline at end of file[m
+[1mdiff --git a/.idea/FlaskOne.iml b/.idea/FlaskOne.iml[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c932add[m
+[1m--- /dev/null[m
+[1m+++ b/.idea/FlaskOne.iml[m
+[36m@@ -0,0 +1,19 @@[m
+[32m+[m[32m<?xml version="1.0" encoding="UTF-8"?>[m
+[32m+[m[32m<module type="PYTHON_MODULE" version="4">[m
+[32m+[m[32m  <component name="NewModuleRootManager">[m
+[32m+[m[32m    <content url="file://$MODULE_DIR$" />[m
+[32m+[m[32m    <orderEntry type="inheritedJdk" />[m
+[32m+[m[32m    <orderEntry type="sourceFolder" forTests="false" />[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m  <component name="TemplatesService">[m
+[32m+[m[32m    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />[m
+[32m+[m[32m    <option name="TEMPLATE_FOLDERS">[m
+[32m+[m[32m      <list>[m
+[32m+[m[32m        <option value="$MODULE_DIR$/templates" />[m
+[32m+[m[32m      </list>[m
+[32m+[m[32m    </option>[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m  <component name="TestRunnerService">[m
+[32m+[m[32m    <option name="PROJECT_TEST_RUNNER" value="Unittests" />[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m</module>[m
+\ No newline at end of file[m
+[1mdiff --git a/.idea/dataSources.local.xml b/.idea/dataSources.local.xml[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5892737[m
+[1m--- /dev/null[m
+[1m+++ b/.idea/dataSources.local.xml[m
+[36m@@ -0,0 +1,22 @@[m
+[32m+[m[32m<?xml version="1.0" encoding="UTF-8"?>[m
+[32m+[m[32m<project version="4">[m
+[32m+[m[32m  <component name="dataSourceStorageLocal">[m
+[32m+[m[32m    <data-source name="identifier.sqlite" uuid="bffe7686-6653-4beb-b3a0-3dc703667418">[m
+[32m+[m[32m      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />[m
+[32m+[m[32m      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />[m
+[32m+[m[32m      <secret-storage>master_key</secret-storage>[m
+[32m+[m[32m      <auth-required>false</auth-required>[m
+[32m+[m[32m      <introspection-schemas>*:main</introspection-schemas>[m
+[32m+[m[32m    </data-source>[m
+[32m+[m[32m    <data-source name="data" uuid="bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d">[m
+[32m+[m[32m      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />[m
+[32m+[m[32m      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />[m
+[32m+[m[32m      <introspection-schemas>*:main</introspection-schemas>[m
+[32m+[m[32m    </data-source>[m
+[32m+[m[32m    <data-source name="data1" uuid="61d3a169-c2a8-47ed-adf0-979d59bbb935">[m
+[32m+[m[32m      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />[m
+[32m+[m[32m      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />[m
+[32m+[m[32m      <introspection-schemas>*:main</introspection-schemas>[m
+[32m+[m[32m    </data-source>[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m</project>[m
+\ No newline at end of file[m
+[1mdiff --git a/.idea/dataSources.xml b/.idea/dataSources.xml[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0a056a9[m
+[1m--- /dev/null[m
+[1m+++ b/.idea/dataSources.xml[m
+[36m@@ -0,0 +1,52 @@[m
+[32m+[m[32m<?xml version="1.0" encoding="UTF-8"?>[m
+[32m+[m[32m<project version="4">[m
+[32m+[m[32m  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">[m
+[32m+[m[32m    <data-source source="LOCAL" name="identifier.sqlite" uuid="bffe7686-6653-4beb-b3a0-3dc70

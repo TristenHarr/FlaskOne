@@ -1,7 +1,10 @@
-from passlib.hash import pbkdf2_sha256
 import sqlite3
-from USERS.manager import *
+
 from cryptography.fernet import Fernet, MultiFernet
+from passlib.hash import pbkdf2_sha256
+
+from USERS.manager import *
+
 
 def make_password(password):
     hash = pbkdf2_sha256.encrypt(password, rounds=200000, salt_size=16)
