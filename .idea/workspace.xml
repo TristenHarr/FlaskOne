@@ -2,37 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b98e87f-32f8-4d17-a8cc-1a42b5222262" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/LoginTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/SetupTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata_i.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata_i.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlaskOne.py" afterPath="$PROJECT_DIR$/FlaskOne.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/Arrival.py" afterPath="$PROJECT_DIR$/Functions/Arrival.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Graveyard/codeblob.py" afterPath="$PROJECT_DIR$/Graveyard/codeblob.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USERS/TwitterScraper.py" afterPath="$PROJECT_DIR$/USERS/TwitterScraper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USERS/manager.py" afterPath="$PROJECT_DIR$/USERS/manager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/Arrival.py" afterPath="$PROJECT_DIR$/Views/Arrival.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/how ." afterPath="$PROJECT_DIR$/how ." />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/User/datasets.html" afterPath="$PROJECT_DIR$/templates/User/datasets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/LoginTest.py" afterPath="$PROJECT_DIR$/tests/LoginTest.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,18 +27,20 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/FlaskOne$SignUpRouting.coverage" NAME="SignUpRouting Coverage Results" MODIFIED="1493154129944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TwitterScrape/Offsite" />
-    <SUITE FILE_PATH="coverage/FlaskOne$Arrival.coverage" NAME="Arrival Coverage Results" MODIFIED="1493262073013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Arrival.coverage" NAME="Arrival Coverage Results" MODIFIED="1493459922790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_codeblob_py.coverage" NAME="Unittests in codeblob.py Coverage Results" MODIFIED="1493331423170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FlaskOne$FlaskOne.coverage" NAME="FlaskOne Coverage Results" MODIFIED="1493360657746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_SetupTest_py.coverage" NAME="Unittests in SetupTest.py Coverage Results" MODIFIED="1493369500586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FlaskOne$manager.coverage" NAME="manager Coverage Results" MODIFIED="1493263335854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/USERS" />
+    <SUITE FILE_PATH="coverage/FlaskOne$conf.coverage" NAME="conf Coverage Results" MODIFIED="1493459562020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlaskOne$FlaskOne.coverage" NAME="FlaskOne Coverage Results" MODIFIED="1493460694264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_SetupTest_py.coverage" NAME="Unittests in SetupTest.py Coverage Results" MODIFIED="1493441674494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$manager.coverage" NAME="manager Coverage Results" MODIFIED="1493460606334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/USERS" />
     <SUITE FILE_PATH="coverage/FlaskOne$MainStream.coverage" NAME="MainStream Coverage Results" MODIFIED="1493346545002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TwitterScrape/Scraper" />
     <SUITE FILE_PATH="coverage/FlaskOne$database.coverage" NAME="database Coverage Results" MODIFIED="1493104745932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
     <SUITE FILE_PATH="coverage/FlaskOne$conn.coverage" NAME="conn Coverage Results" MODIFIED="1493155576865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
     <SUITE FILE_PATH="coverage/FlaskOne$setup.coverage" NAME="setup Coverage Results" MODIFIED="1493158424308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
     <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_LoginTest_py.coverage" NAME="Unittests in LoginTest.py Coverage Results" MODIFIED="1493369475639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FlaskOne$codeblob.coverage" NAME="codeblob Coverage Results" MODIFIED="1493331568766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graveyard" />
+    <SUITE FILE_PATH="coverage/FlaskOne$codeblob.coverage" NAME="codeblob Coverage Results" MODIFIED="1493455640828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graveyard" />
     <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1493369488853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_FlaskOne_py.coverage" NAME="Unittests in FlaskOne.py Coverage Results" MODIFIED="1493399015057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FlaskOne$testingdata.coverage" NAME="testingdata Coverage Results" MODIFIED="1493229046013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OTHER" />
   </component>
   <component name="DatabaseView">
@@ -65,202 +51,182 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="data1" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="data1" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="main" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="data" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="data" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="main" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FlaskOne.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlaskOne.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="253" column="32" lean-forward="false" selection-start-line="253" selection-start-column="32" selection-end-line="253" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#728#798#0" expanded="false" />
-                <element signature="e#763#798#0" expanded="false" />
-                <element signature="e#837#949#0" expanded="false" />
-                <element signature="e#981#1069#0" expanded="false" />
-                <element signature="e#1131#1156#0" expanded="false" />
-                <element signature="e#2168#2834#0" expanded="false" />
-                <marker date="1493361589178" expanded="false" signature="4013:4168" ph="CREATE TABLE... missing_value" />
-                <marker date="1493361589178" expanded="true" signature="4221:4259" ph="INSERT INTO secret_key... " />
-                <marker date="1493361589178" expanded="false" signature="4325:4574" ph="CREATE TABLE... missing_value" />
-                <marker date="1493361589178" expanded="true" signature="4623:4657" ph="INSERT INTO secrets... " />
-                <marker date="1493361589178" expanded="true" signature="4623:4661" ph="INSERT INTO secrets... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrival.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Views/Arrival.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrival.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Arrival.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4180">
-              <caret line="227" column="25" lean-forward="false" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1493368264434" expanded="true" signature="446:1184" ph="CREATE TABLE... missing_value" />
-                <marker date="1493368264434" expanded="false" signature="1244:2023" ph="INSERT INTO users... " />
-                <marker date="1493368264434" expanded="true" signature="3050:3098" ph="SELECT COUNT... users" />
-                <marker date="1493368264434" expanded="true" signature="3065:3093" ph="SELECT id fr... users" />
-                <marker date="1493368264434" expanded="true" signature="3212:3226" ph="SELECT MAX(i... " />
-                <marker date="1493368264434" expanded="true" signature="3212:3237" ph="SELECT MAX(i... users" />
-                <marker date="1493368264434" expanded="true" signature="3446:3479" ph="INSERT INTO users... " />
-                <marker date="1493368264434" expanded="true" signature="3446:4225" ph="INSERT INTO users... " />
-                <marker date="1493368264434" expanded="true" signature="5558:5601" ph="SELECT passw... users" />
-                <marker date="1493368264434" expanded="true" signature="5558:5603" ph="SELECT passw... users" />
-                <marker date="1493368264434" expanded="true" signature="5558:5604" ph="SELECT passw... users" />
-                <marker date="1493368264434" expanded="true" signature="5637:7355" ph="SELECT id, e... users" />
-                <marker date="1493368264434" expanded="true" signature="5708:5740" ph="SELECT id, e... " />
-                <marker date="1493368264434" expanded="true" signature="5708:5938" ph="SELECT id, e... is_authenticated," />
-                <marker date="1493368264434" expanded="true" signature="7146:7187" ph="SELECT EXIST... " />
-                <marker date="1493368264434" expanded="true" signature="7146:7204" ph="SELECT EXIST... " />
-                <marker date="1493368264434" expanded="true" signature="7146:7207" ph="SELECT EXIST... " />
-                <marker date="1493368264434" expanded="true" signature="7146:7209" ph="SELECT EXIST... " />
-                <marker date="1493368264434" expanded="true" signature="7160:7187" ph="SELECT id fr... users" />
-                <marker date="1493368264434" expanded="true" signature="8301:8344" ph="SELECT * FRO... secrets" />
-                <marker date="1493368264434" expanded="true" signature="8422:8469" ph="SELECT * FRO... secrets" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/LoginTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SetupTest.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/SetupTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datasources.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="how ." pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/how .">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1330">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README-Template.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README-Template.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="163">
-                <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.8243858">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="FlaskOne.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/FlaskOne.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="260">
+                  <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+                  <folding>
+                    <element signature="e#0#13#0" expanded="true" />
+                    <element signature="e#614#649#0" expanded="false" />
+                    <element signature="e#7459#7584#0" expanded="false" />
+                    <element signature="e#7801#7926#0" expanded="false" />
+                    <marker date="1493460571656" expanded="false" signature="3683:3838" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493460571656" expanded="true" signature="3891:3929" ph="INSERT INTO secret_key... " />
+                    <marker date="1493460571656" expanded="false" signature="3995:4244" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493460571656" expanded="true" signature="4293:4327" ph="INSERT INTO secrets... " />
+                    <marker date="1493460571656" expanded="true" signature="4293:4331" ph="INSERT INTO secrets... " />
+                    <marker date="1493460571656" expanded="true" signature="5379:5611" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493460571656" expanded="true" signature="5665:5704" ph="INSERT INTO KeywordTable... " />
+                    <marker date="1493460571656" expanded="true" signature="8329:8368" ph="DELETE FROM " />
+                    <marker date="1493460571656" expanded="true" signature="8416:8459" ph="DELETE FROM " />
+                    <marker date="1493460571656" expanded="true" signature="8833:8892" ph="DELETE FROM " />
+                    <marker date="1493460571656" expanded="true" signature="9050:9071" ph="DROP TABLE I... " />
+                    <marker date="1493460571656" expanded="true" signature="9370:9385" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493460571656" expanded="true" signature="9370:9388" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493460571656" expanded="true" signature="9666:9684" ph="SELECT * FRO... missing_value" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CONFIG.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/CONFIG.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="codeblob.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Graveyard/codeblob.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Arrival.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Functions/Arrival.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
+                    <marker date="1493460033120" expanded="true" signature="643:1381" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493460033120" expanded="true" signature="1441:2220" ph="INSERT INTO users... " />
+                    <marker date="1493460033120" expanded="true" signature="3215:3263" ph="SELECT COUNT... users" />
+                    <marker date="1493460033120" expanded="true" signature="3230:3258" ph="SELECT id fr... users" />
+                    <marker date="1493460033120" expanded="true" signature="3377:3391" ph="SELECT MAX(i... " />
+                    <marker date="1493460033120" expanded="true" signature="3377:3402" ph="SELECT MAX(i... users" />
+                    <marker date="1493460033120" expanded="true" signature="3611:3644" ph="INSERT INTO users... " />
+                    <marker date="1493460033120" expanded="true" signature="3611:4390" ph="INSERT INTO users... " />
+                    <marker date="1493460033120" expanded="true" signature="5674:5763" ph="SELECT passw... users" />
+                    <marker date="1493460033120" expanded="true" signature="5674:5765" ph="SELECT passw... users" />
+                    <marker date="1493460033120" expanded="true" signature="5674:5766" ph="SELECT passw... users" />
+                    <marker date="1493460033120" expanded="true" signature="5799:7682" ph="SELECT id, e... users" />
+                    <marker date="1493460033120" expanded="true" signature="5870:5902" ph="SELECT id, e... " />
+                    <marker date="1493460033120" expanded="true" signature="5870:6232" ph="SELECT id, e... is_authenticated," />
+                    <marker date="1493460033120" expanded="true" signature="7439:7514" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7439:7531" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7439:7534" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7439:7536" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7453:7514" ph="SELECT id fr... users" />
+                    <marker date="1493460033120" expanded="true" signature="8728:8771" ph="SELECT * FRO... secrets" />
+                    <marker date="1493460033120" expanded="true" signature="8843:8890" ph="SELECT * FRO... secrets" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Arrival.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Views/Arrival.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="900">
+                  <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SetupTest.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tests/SetupTest.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="200">
+                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#15#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="manager.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/USERS/manager.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="53">
+                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TwitterScraper.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/USERS/TwitterScraper.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#43#0" expanded="true" />
+                    <marker date="1493460571632" expanded="true" signature="1855:3165" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493460571632" expanded="true" signature="14107:14383" ph="INSERT INTO missing_value... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="Arrival.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Functions/Arrival.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="258">
+                  <caret line="215" column="11" lean-forward="false" selection-start-line="215" selection-start-column="11" selection-end-line="215" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
+                    <marker date="1493460033120" expanded="true" signature="643:1381" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493460033120" expanded="false" signature="1441:2220" ph="INSERT INTO users... " />
+                    <marker date="1493460033120" expanded="true" signature="3215:3263" ph="SELECT COUNT... users" />
+                    <marker date="1493460033120" expanded="true" signature="3230:3258" ph="SELECT id fr... users" />
+                    <marker date="1493460033120" expanded="true" signature="3377:3391" ph="SELECT MAX(i... " />
+                    <marker date="1493460033120" expanded="true" signature="3377:3402" ph="SELECT MAX(i... users" />
+                    <marker date="1493460033120" expanded="true" signature="3611:3644" ph="INSERT INTO users... " />
+                    <marker date="1493460033120" expanded="true" signature="3611:4390" ph="INSERT INTO users... " />
+                    <marker date="1493460033120" expanded="true" signature="5674:5763" ph="SELECT passw... users" />
+                    <marker date="1493460033120" expanded="true" signature="5674:5765" ph="SELECT passw... users" />
+                    <marker date="1493460033120" expanded="true" signature="5674:5766" ph="SELECT passw... users" />
+                    <marker date="1493460033120" expanded="true" signature="5799:7682" ph="SELECT id, e... users" />
+                    <marker date="1493460033120" expanded="true" signature="5870:5902" ph="SELECT id, e... " />
+                    <marker date="1493460033120" expanded="true" signature="5870:6232" ph="SELECT id, e... is_authenticated," />
+                    <marker date="1493460033120" expanded="true" signature="7439:7514" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7439:7531" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7439:7534" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7439:7536" ph="SELECT EXIST... " />
+                    <marker date="1493460033120" expanded="true" signature="7453:7514" ph="SELECT id fr... users" />
+                    <marker date="1493460033120" expanded="true" signature="8728:8771" ph="SELECT * FRO... secrets" />
+                    <marker date="1493460033120" expanded="true" signature="8843:8890" ph="SELECT * FRO... secrets" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -282,6 +248,11 @@
       <find>MYSTUFF</find>
       <find>sqlite3</find>
       <find>file_handler</find>
+      <find>&quot;Py</find>
+      <find>PycharmProjects/FlaskOne/USERS/{}/data1.db</find>
+      <find>user_database()</find>
+      <find>main_database()</find>
+      <find>user_database(</find>
     </findStrings>
     <replaceStrings>
       <replace>charts</replace>
@@ -290,6 +261,11 @@
       <replace>model</replace>
       <replace>project</replace>
       <replace>key2</replace>
+      <replace>main_database()</replace>
+      <replace>settings['MAIN_DB']</replace>
+      <replace>settings['']</replace>
+      <replace>settings['USERS']</replace>
+      <replace>settings['USERS_DB']</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -320,25 +296,29 @@
         <option value="$PROJECT_DIR$/templates/User/models.html" />
         <option value="$PROJECT_DIR$/templates/User/projects.html" />
         <option value="$PROJECT_DIR$/templates/User/groups.html" />
-        <option value="$PROJECT_DIR$/Graveyard/codeblob.py" />
         <option value="$PROJECT_DIR$/templates/User/datasources.html" />
         <option value="$PROJECT_DIR$/USERS/Admin/_data_sources.txt" />
-        <option value="$PROJECT_DIR$/USERS/manager.py" />
         <option value="$PROJECT_DIR$/templates/User/base.html" />
-        <option value="$PROJECT_DIR$/Views/Arrival.py" />
-        <option value="$PROJECT_DIR$/USERS/TwitterScraper.py" />
         <option value="$PROJECT_DIR$/USERS/Admin/_data_tables.txt" />
-        <option value="$PROJECT_DIR$/templates/User/datasets.html" />
-        <option value="$PROJECT_DIR$/FlaskOne.py" />
         <option value="$PROJECT_DIR$/gitignore.txt" />
         <option value="$PROJECT_DIR$/README-Template.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Functions/Arrival.py" />
         <option value="$PROJECT_DIR$/unittest/LoginTest.py" />
         <option value="$PROJECT_DIR$/unittest/__init__.py" />
         <option value="$PROJECT_DIR$/tests/__init__.py" />
-        <option value="$PROJECT_DIR$/tests/LoginTest.py" />
         <option value="$PROJECT_DIR$/tests/SetupTest.py" />
+        <option value="$PROJECT_DIR$/tests/New_User_Test.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tests/LoginTest.py" />
+        <option value="$PROJECT_DIR$/templates/User/datasets.html" />
+        <option value="$PROJECT_DIR$/Graveyard/GY-manager.py" />
+        <option value="$PROJECT_DIR$/Views/Arrival.py" />
+        <option value="$PROJECT_DIR$/Graveyard/codeblob.py" />
+        <option value="$PROJECT_DIR$/CONFIG.txt" />
+        <option value="$PROJECT_DIR$/conf.py" />
+        <option value="$PROJECT_DIR$/Functions/Arrival.py" />
+        <option value="$PROJECT_DIR$/FlaskOne.py" />
+        <option value="$PROJECT_DIR$/USERS/TwitterScraper.py" />
+        <option value="$PROJECT_DIR$/USERS/manager.py" />
       </list>
     </option>
   </component>
@@ -349,10 +329,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1535" />
-    <option name="height" value="799" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1537" />
+    <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -382,94 +362,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="USERS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Graveyard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlaskOne" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DATABASE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -485,6 +381,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -513,7 +410,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in SetupTest.py">
+  <component name="RunManager" selected="Python.FlaskOne">
+    <configuration default="false" name="Unittests in SetupTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskOne" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/SetupTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
     <configuration default="false" name="codeblob" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -533,71 +446,61 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="MainStream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="conf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TwitterScrape/Scraper" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TwitterScrape/Scraper/MainStream.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in LoginTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Arrival" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/LoginTest.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/Arrival.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/USERS" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in SetupTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FlaskOne" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/SetupTest.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USERS/manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -769,19 +672,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.FlaskOne" />
-      <item index="1" class="java.lang.String" itemvalue="Python.codeblob" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MainStream" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in LoginTest.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in tests" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in SetupTest.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in SetupTest.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.codeblob" />
+      <item index="3" class="java.lang.String" itemvalue="Python.conf" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Arrival" />
+      <item index="5" class="java.lang.String" itemvalue="Python.manager" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in SetupTest.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in tests" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in LoginTest.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MainStream" />
-        <item index="4" class="java.lang.String" itemvalue="Python.codeblob" />
+        <item index="0" class="java.lang.String" itemvalue="Python.manager" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Arrival" />
+        <item index="2" class="java.lang.String" itemvalue="Python.conf" />
+        <item index="3" class="java.lang.String" itemvalue="Python.codeblob" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in SetupTest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -796,9 +699,20 @@
       <option name="presentableId" value="Default" />
       <updated>1493092317742</updated>
     </task>
+    <task id="LOCAL-00001" summary="Editted .gitignore">
+      <created>1493369953981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493369953981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="Unittests_in_FlaskOne_py - 2017.04.28 at 12h 03m 43s.xml">
+      <configuration name="Unittests in FlaskOne.py" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_LoginTest_py - 2017.04.28 at 03h 46m 55s.xml">
       <configuration name="Unittests in LoginTest.py" configurationId="tests" />
     </history-entry>
@@ -811,6 +725,12 @@
     <history-entry file="Unittests_in_SetupTest_py - 2017.04.28 at 03h 51m 45s.xml">
       <configuration name="Unittests in SetupTest.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_SetupTest_py - 2017.04.28 at 23h 54m 26s.xml">
+      <configuration name="Unittests in SetupTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SetupTest_py - 2017.04.28 at 23h 54m 37s.xml">
+      <configuration name="Unittests in SetupTest.py" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_codeblob_py - 2017.04.27 at 17h 17m 07s.xml">
       <configuration name="Unittests in codeblob.py" configurationId="tests" />
     </history-entry>
@@ -818,59 +738,52 @@
       <configuration name="Unittests in tests" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1535" height="799" extended-state="6" />
+    <frame x="64" y="-11" width="1537" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51263" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.007387508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15177971" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21693908" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.007387508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26192075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20148148" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15849563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15110813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Editted .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editted .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -881,56 +794,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="dbDummy://dbtable:/f6ccd815/771e9cbf-1c8b-4689-a58e-3c32906b794d/main.users" />
-    <entry file="dbDummy://dbtable:/f6ccd815/80c27830-a9d8-43b2-9579-3e713f6e2d4d/main.users" />
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/flask/globals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OTHER/testingdata.py" />
-    <entry file="file://$PROJECT_DIR$/../Neatto/home/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/3fc890ec-d810-4a91-9c84-12dd79b0c1df/main.users" />
-    <entry file="file://$PROJECT_DIR$/USERS/test.txt" />
-    <entry file="file://$PROJECT_DIR$/USERS/YOU/_data_sources.txt" />
-    <entry file="file://$PROJECT_DIR$/USERS/YOU/_charts.txt" />
-    <entry file="dbDummy://dbtable:/f6ccd815/39ec569f-9498-4577-8f7e-ee75b0940be1/main.users" />
-    <entry file="file://$PROJECT_DIR$/templates/User/groups.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/models.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/25f3a5bf-a172-4671-959f-396c2da4b43f/main.secrets" />
-    <entry file="dbDummy://dbtable:/f6ccd815/f9de5e0c-2fd8-4721-b970-1deee32800f1/main.secret_keys" />
     <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/cryptography/fernet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
@@ -943,14 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7540">
           <caret line="2265" column="7" lean-forward="false" selection-start-line="2265" selection-start-column="7" selection-end-line="2265" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graveyard/codeblob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -962,35 +822,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2233">
           <caret line="314" column="29" lean-forward="false" selection-start-line="314" selection-start-column="29" selection-end-line="314" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1492978358539" expanded="true" signature="1727:3037" ph="CREATE TABLE... missing_value" />
-            <marker date="1492978358539" expanded="true" signature="14139:14415" ph="INSERT INTO missing_value... " />
-            <marker date="1492978358539" expanded="true" signature="15362:15548" ph="CREATE TABLE... missing_value" />
-            <marker date="1492978358539" expanded="true" signature="16003:16120" ph="INSERT INTO manager... " />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/f6ccd815/eeb08461-96f7-455f-817e-d98ac361a679/main.firstone" />
-    <entry file="file://$PROJECT_DIR$/USERS/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#1172#1574#0" expanded="false" />
-            <element signature="e#1609#1953#0" expanded="false" />
-            <element signature="e#1988#2332#0" expanded="false" />
-            <element signature="e#2371#2723#0" expanded="false" />
-            <element signature="e#2772#3200#0" expanded="false" />
-            <element signature="e#3242#3656#0" expanded="false" />
-            <element signature="e#3693#4097#0" expanded="false" />
-            <element signature="e#4134#4538#0" expanded="false" />
-            <element signature="e#4579#4991#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/Arrival/_formhelpers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1030,6 +865,99 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2520">
           <caret line="126" column="25" lean-forward="false" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/61d3a169-c2a8-47ed-adf0-979d59bbb935/main.Politics" />
+    <entry file="dbDummy://dbtable:/f6ccd815/61d3a169-c2a8-47ed-adf0-979d59bbb935/main.Testing" />
+    <entry file="dbDummy://dbtable:/f6ccd815/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/main.KeywordTable" />
+    <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_sources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_tables.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore.txt" />
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/tweepy/streaming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3460">
+          <caret line="190" column="8" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/6a9d7acb-4961-4bd4-aff8-294ab94d4c13/main.users" />
+    <entry file="dbDummy://dbtable:/f6ccd815/8952793e-2571-40aa-b0b4-1688cc132361/main.Trump">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/07f69ceb-53d1-41b8-a382-e46bf645244f/main.secrets">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/c5db949f-befa-4aeb-9a30-18416e24001b/main.ATABLE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/293fb5b1-8e8e-4d3e-b054-ad2dd1ac0a1e/main.Trump">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1042,43 +970,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/61d3a169-c2a8-47ed-adf0-979d59bbb935/main.Politics">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/61d3a169-c2a8-47ed-adf0-979d59bbb935/main.Testing">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/tests/LoginTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/main.KeywordTable">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_sources.txt">
+    <entry file="file://$PROJECT_DIR$/tests/New_User_Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1086,45 +988,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_tables.txt">
+    <entry file="file://$PROJECT_DIR$/USERS/qwerty/_data_sources.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/User/datasets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1420">
-          <caret line="71" column="16" lean-forward="false" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        <state relative-caret-position="297">
+          <caret line="86" column="16" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gitignore.txt" />
-    <entry file="file://$PROJECT_DIR$/USERS/TwitterScraper.py">
+    <entry file="file://$PROJECT_DIR$/USERS/haha/_data_tables.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9160">
-          <caret line="466" column="21" lean-forward="false" selection-start-line="466" selection-start-column="21" selection-end-line="466" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1493354297133" expanded="true" signature="1752:3062" ph="CREATE TABLE... missing_value" />
-            <marker date="1493354297133" expanded="true" signature="14004:14280" ph="INSERT INTO missing_value... " />
-            <marker date="1493354297133" expanded="true" signature="15259:15449" ph="CREATE TABLE... missing_value" />
-            <marker date="1493354297133" expanded="true" signature="15927:16046" ph="INSERT INTO manager... " />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/tweepy/streaming.py">
+    <entry file="file://$PROJECT_DIR$/USERS/haha/_data_sources.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3460">
-          <caret line="190" column="8" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1017">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USERS/Johhny/_data_sources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graveyard/GY-manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how .">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README-Template.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="163">
@@ -1134,121 +1067,145 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="113" column="21" lean-forward="false" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+          <folding>
+            <element signature="e#1800#1863#0" expanded="false" />
+            <marker date="1493459922728" expanded="true" signature="1938:2790" ph="CREATE TABLE... missing_value" />
+            <marker date="1493459922728" expanded="true" signature="2862:3746" ph="INSERT INTO users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONFIG.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/how .">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1330">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Views/Arrival.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        <state relative-caret-position="900">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlaskOne.py">
+    <entry file="file://$PROJECT_DIR$/tests/SetupTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="253" column="32" lean-forward="false" selection-start-line="253" selection-start-column="32" selection-end-line="253" selection-end-column="32" />
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#728#798#0" expanded="false" />
-            <element signature="e#763#798#0" expanded="false" />
-            <element signature="e#837#949#0" expanded="false" />
-            <element signature="e#981#1069#0" expanded="false" />
-            <element signature="e#1131#1156#0" expanded="false" />
-            <element signature="e#2168#2834#0" expanded="false" />
-            <marker date="1493361589178" expanded="false" signature="4013:4168" ph="CREATE TABLE... missing_value" />
-            <marker date="1493361589178" expanded="true" signature="4221:4259" ph="INSERT INTO secret_key... " />
-            <marker date="1493361589178" expanded="false" signature="4325:4574" ph="CREATE TABLE... missing_value" />
-            <marker date="1493361589178" expanded="true" signature="4623:4657" ph="INSERT INTO secrets... " />
-            <marker date="1493361589178" expanded="true" signature="4623:4661" ph="INSERT INTO secrets... " />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Arrival.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4180">
-          <caret line="227" column="25" lean-forward="false" selection-start-line="227" selection-start-column="25" selection-end-line="227" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
-            <marker date="1493368264434" expanded="true" signature="446:1184" ph="CREATE TABLE... missing_value" />
-            <marker date="1493368264434" expanded="false" signature="1244:2023" ph="INSERT INTO users... " />
-            <marker date="1493368264434" expanded="true" signature="3050:3098" ph="SELECT COUNT... users" />
-            <marker date="1493368264434" expanded="true" signature="3065:3093" ph="SELECT id fr... users" />
-            <marker date="1493368264434" expanded="true" signature="3212:3226" ph="SELECT MAX(i... " />
-            <marker date="1493368264434" expanded="true" signature="3212:3237" ph="SELECT MAX(i... users" />
-            <marker date="1493368264434" expanded="true" signature="3446:3479" ph="INSERT INTO users... " />
-            <marker date="1493368264434" expanded="true" signature="3446:4225" ph="INSERT INTO users... " />
-            <marker date="1493368264434" expanded="true" signature="5558:5601" ph="SELECT passw... users" />
-            <marker date="1493368264434" expanded="true" signature="5558:5603" ph="SELECT passw... users" />
-            <marker date="1493368264434" expanded="true" signature="5558:5604" ph="SELECT passw... users" />
-            <marker date="1493368264434" expanded="true" signature="5637:7355" ph="SELECT id, e... users" />
-            <marker date="1493368264434" expanded="true" signature="5708:5740" ph="SELECT id, e... " />
-            <marker date="1493368264434" expanded="true" signature="5708:5938" ph="SELECT id, e... is_authenticated," />
-            <marker date="1493368264434" expanded="true" signature="7146:7187" ph="SELECT EXIST... " />
-            <marker date="1493368264434" expanded="true" signature="7146:7204" ph="SELECT EXIST... " />
-            <marker date="1493368264434" expanded="true" signature="7146:7207" ph="SELECT EXIST... " />
-            <marker date="1493368264434" expanded="true" signature="7146:7209" ph="SELECT EXIST... " />
-            <marker date="1493368264434" expanded="true" signature="7160:7187" ph="SELECT id fr... users" />
-            <marker date="1493368264434" expanded="true" signature="8301:8344" ph="SELECT * FRO... secrets" />
-            <marker date="1493368264434" expanded="true" signature="8422:8469" ph="SELECT * FRO... secrets" />
+            <marker date="1493460033120" expanded="true" signature="643:1381" ph="CREATE TABLE... missing_value" />
+            <marker date="1493460033120" expanded="true" signature="1441:2220" ph="INSERT INTO users... " />
+            <marker date="1493460033120" expanded="true" signature="3215:3263" ph="SELECT COUNT... users" />
+            <marker date="1493460033120" expanded="true" signature="3230:3258" ph="SELECT id fr... users" />
+            <marker date="1493460033120" expanded="true" signature="3377:3391" ph="SELECT MAX(i... " />
+            <marker date="1493460033120" expanded="true" signature="3377:3402" ph="SELECT MAX(i... users" />
+            <marker date="1493460033120" expanded="true" signature="3611:3644" ph="INSERT INTO users... " />
+            <marker date="1493460033120" expanded="true" signature="3611:4390" ph="INSERT INTO users... " />
+            <marker date="1493460033120" expanded="true" signature="5674:5763" ph="SELECT passw... users" />
+            <marker date="1493460033120" expanded="true" signature="5674:5765" ph="SELECT passw... users" />
+            <marker date="1493460033120" expanded="true" signature="5674:5766" ph="SELECT passw... users" />
+            <marker date="1493460033120" expanded="true" signature="5799:7682" ph="SELECT id, e... users" />
+            <marker date="1493460033120" expanded="true" signature="5870:5902" ph="SELECT id, e... " />
+            <marker date="1493460033120" expanded="true" signature="5870:6232" ph="SELECT id, e... is_authenticated," />
+            <marker date="1493460033120" expanded="true" signature="7439:7514" ph="SELECT EXIST... " />
+            <marker date="1493460033120" expanded="true" signature="7439:7531" ph="SELECT EXIST... " />
+            <marker date="1493460033120" expanded="true" signature="7439:7534" ph="SELECT EXIST... " />
+            <marker date="1493460033120" expanded="true" signature="7439:7536" ph="SELECT EXIST... " />
+            <marker date="1493460033120" expanded="true" signature="7453:7514" ph="SELECT id fr... users" />
+            <marker date="1493460033120" expanded="true" signature="8728:8771" ph="SELECT * FRO... secrets" />
+            <marker date="1493460033120" expanded="true" signature="8843:8890" ph="SELECT * FRO... secrets" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Graveyard/codeblob.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/LoginTest.py">
+    <entry file="file://$PROJECT_DIR$/USERS/TwitterScraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
+            <marker date="1493460571632" expanded="true" signature="1855:3165" ph="CREATE TABLE... missing_value" />
+            <marker date="1493460571632" expanded="true" signature="14107:14383" ph="INSERT INTO missing_value... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/SetupTest.py">
+    <entry file="file://$PROJECT_DIR$/USERS/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="53">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USERS/Neat/_data_sources.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USERS/Neat/_data_tables.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlaskOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#614#649#0" expanded="false" />
+            <element signature="e#7459#7584#0" expanded="false" />
+            <element signature="e#7801#7926#0" expanded="false" />
+            <marker date="1493460571656" expanded="false" signature="3683:3838" ph="CREATE TABLE... missing_value" />
+            <marker date="1493460571656" expanded="true" signature="3891:3929" ph="INSERT INTO secret_key... " />
+            <marker date="1493460571656" expanded="false" signature="3995:4244" ph="CREATE TABLE... missing_value" />
+            <marker date="1493460571656" expanded="true" signature="4293:4327" ph="INSERT INTO secrets... " />
+            <marker date="1493460571656" expanded="true" signature="4293:4331" ph="INSERT INTO secrets... " />
+            <marker date="1493460571656" expanded="true" signature="5379:5611" ph="CREATE TABLE... missing_value" />
+            <marker date="1493460571656" expanded="true" signature="5665:5704" ph="INSERT INTO KeywordTable... " />
+            <marker date="1493460571656" expanded="true" signature="8329:8368" ph="DELETE FROM " />
+            <marker date="1493460571656" expanded="true" signature="8416:8459" ph="DELETE FROM " />
+            <marker date="1493460571656" expanded="true" signature="8833:8892" ph="DELETE FROM " />
+            <marker date="1493460571656" expanded="true" signature="9050:9071" ph="DROP TABLE I... " />
+            <marker date="1493460571656" expanded="true" signature="9370:9385" ph="SELECT * FRO... missing_value" />
+            <marker date="1493460571656" expanded="true" signature="9370:9388" ph="SELECT * FRO... missing_value" />
+            <marker date="1493460571656" expanded="true" signature="9666:9684" ph="SELECT * FRO... missing_value" />
           </folding>
         </state>
       </provider>

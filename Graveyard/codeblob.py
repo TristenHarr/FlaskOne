@@ -1,10 +1,6 @@
-x = "Hey"
-y = ""
+import os
+print(os.getcwd())
+print(globals())
 
-
-def stuff(x):
-    return x.split('~')
-
-print(stuff(x))
-print(stuff(y))
-print(stuff(z))
+first = open('/home/tristen/PycharmProjects/FlaskOne/Graveyard/neat.txt', 'a')
+first.close()

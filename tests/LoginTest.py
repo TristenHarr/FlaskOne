@@ -8,5 +8,5 @@ class LoginTest(unittest.TestCase):
         y = check_password("stuff", x)
         self.assertTrue(y)
 
-if __name__ == "__main__":
-    unittest.main()
+# if __name__ == "__main__":
+#     unittest.main()

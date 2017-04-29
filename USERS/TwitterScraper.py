@@ -7,7 +7,10 @@ import sqlite3
 import random
 import re
 from datetime import date
+from conf import load_in
+settings = load_in()
 
+# TODO: *PROJECT MILESTONE* Turn this into a wrapper for any JSON formatted data
 
 
 class Extraction(object):
@@ -42,7 +45,7 @@ class Extraction(object):
         self.database = username
         self.table = table_name
         # Connects to a SQLite database with the specified database name
-        self.conn = sqlite3.connect("PycharmProjects/FlaskOne/USERS/{}/data1.db".format(username))
+        self.conn = sqlite3.connect(settings['USERS_DB'].format(username))
         # Creates a table with the specified table name if it doesn't already exist
         self.conn.execute("CREATE TABLE IF NOT EXISTS {tn} (days INTEGER,"
                           "favorites INTEGER,"
@@ -453,6 +456,7 @@ class Scraper(object):
 
     def set_languages(self, languages):
         self.lang = languages
+
     def set_keys(self, keys):
         self.access_token = keys['access_token']
         self.access_token_secret = keys['access_token_secret']
@@ -473,4 +477,3 @@ class Scraper(object):
             stream.filter(locations=self.items)
         elif self.search == 'location':
             stream.filter(locations=self.items, languages=self.lang)
-

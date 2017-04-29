@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="data1">
+<dataSource name="data1 [3]">
   <database-model serializer="dbm" rdbms="SQLITE" format-version="4.1">
     <root id="1"/>
     <schema id="2" parent="1" name="main">
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
-    <table id="3" parent="2" name="firstone"/>
+    <table id="3" parent="2" name="Trump"/>
     <table id="4" parent="2" name="sqlite_master"/>
     <column id="5" parent="3" name="days">
       <DataType>INTEGER|0</DataType>
@@ -119,14 +119,14 @@
       <Position>27</Position>
       <DataType>TEXT|0</DataType>
     </column>
-    <index id="33" parent="3" name="sqlite_autoindex_firstone_1">
+    <index id="33" parent="3" name="sqlite_autoindex_Trump_1">
       <ColNames>tweet</ColNames>
       <Unique>1</Unique>
     </index>
     <key id="34" parent="3">
       <ColNames>tweet</ColNames>
       <Primary>1</Primary>
-      <UnderlyingIndexName>sqlite_autoindex_firstone_1</UnderlyingIndexName>
+      <UnderlyingIndexName>sqlite_autoindex_Trump_1</UnderlyingIndexName>
     </key>
     <column id="35" parent="4" name="type">
       <DataType>text|0</DataType>

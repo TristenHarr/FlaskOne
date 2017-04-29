@@ -3,18 +3,25 @@ import sqlite3
 from cryptography.fernet import Fernet, MultiFernet
 from passlib.hash import pbkdf2_sha256
 
-from USERS.manager import *
+from USERS.manager import FileController
+from conf import load_in
+settings = load_in()
+
+# TODO: IMPORTANT! Clean up SQL to protect against injections
 
 
 def make_password(password):
-    hash = pbkdf2_sha256.encrypt(password, rounds=200000, salt_size=16)
-    return hash
+    # TODO: Rewrite this, increase security, look into some kind of database-row rotations
+    hashed = pbkdf2_sha256.encrypt(password, rounds=200000, salt_size=16)
+    return hashed
 
-def check_password(password, hash):
-    return (pbkdf2_sha256.verify(password, hash))
+
+def check_password(password, hashed):
+    return pbkdf2_sha256.verify(password, hashed)
+
 
 def setup():
-    conn = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
+    conn = sqlite3.connect(settings['MAIN_DB'])
     conn.execute("CREATE TABLE IF NOT EXISTS {tn} (id INTEGER,"
                  "email TEXT,"
                  "email_verified INTEGER,"
@@ -63,23 +70,23 @@ def setup():
         data_tables='',
         logged_in=1,
         subscribed=0,
-        charts = "",
-        models = "",
-        groups = "",
-        first_name = "",
-        last_name = "",
-        friends = "",
-        active = 1,
-        reset_request = 0,
-        data_sources = "",
-        projects = "",
-        is_authenticated = 0))
+        charts="",
+        models="",
+        groups="",
+        first_name="",
+        last_name="",
+        friends="",
+        active=1,
+        reset_request=0,
+        data_sources="",
+        projects="",
+        is_authenticated=0))
     conn.commit()
     conn.close()
-    file_handler("Admin")
+    FileController().file_handler("Admin")
 
 
-class create_user():
+class CreateUser:
 
     def __init__(self, data):
         self.email = data['email']
@@ -89,7 +96,7 @@ class create_user():
         self.user_groups = []
         self.user_password_reset_request = False
         self.user_id = None
-        self.con = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
+        self.con = sqlite3.connect(settings['MAIN_DB'])
         self.c = self.con.cursor()
 
     def user_exists(self):
@@ -132,37 +139,40 @@ class create_user():
                             data_tables='',
                             logged_in=0,
                             subscribed=0,
-                            charts = "",
-                            models = "",
-                            groups = "",
-                            first_name = "",
-                            last_name = "",
-                            friends = "",
-                            active = 1,
-                            reset_request = 0,
-                            data_sources = "",
-                            projects = "",
-                            is_authenticated = 0))
+                            charts="",
+                            models="",
+                            groups="",
+                            first_name="",
+                            last_name="",
+                            friends="",
+                            active=1,
+                            reset_request=0,
+                            data_sources="",
+                            projects="",
+                            is_authenticated=0))
             self.con.commit()
             self.con.close()
             return True
 
 
-
-class User():
+class User:
 
     def __init__(self, username):
-        self.con = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
+        self.con = sqlite3.connect(settings['MAIN_DB'])
         self.c = self.con.cursor()
         self.user_items = None
         self.user_dict = None
         self.keys = None
         if self.user_exists(username):
             self.username = username
-            self.password = self.c.execute("SELECT password FROM users WHERE username='{}'".format(username)).fetchone()[0]
+            self.password = self.c.execute("SELECT password FROM"
+                                           " users WHERE username='{}'".format(username)).fetchone()[0]
 
     def load_user(self):
-        self.user_items = self.c.execute("""SELECT id, email, email_verified, username, is_authenticated, data_tables, logged_in, subscribed, charts, models, groups, first_name, last_name, friends, active, reset_request, data_sources, projects FROM users WHERE username='{}'""".format(self.username)).fetchall()[0]
+        self.user_items = self.c.execute("""SELECT id, email, email_verified, username, is_authenticated, data_tables,
+                                            logged_in, subscribed, charts, models, groups, first_name, last_name,
+                                            friends, active, reset_request, data_sources, projects
+                                            FROM users WHERE username='{}'""".format(self.username)).fetchall()[0]
         self.user_dict = {'id': self.user_items[0],
                           'email': self.user_items[1],
                           'email_verified': self.user_items[2],
@@ -183,9 +193,9 @@ class User():
                           'projects': self.user_items[17]}
         return self.user_dict
 
-
     def user_exists(self, username):
-        valid = self.c.execute("SELECT EXISTS(SELECT username from users WHERE username = '{}')".format(username)).fetchone()[0]
+        valid = self.c.execute("SELECT EXISTS(SELECT username "
+                               "FROM users WHERE username = '{}')".format(username)).fetchone()[0]
         return valid
 
     def login_user(self, password):
@@ -200,41 +210,37 @@ class User():
     def is_active(self):
         return self.user_dict['is_active']
 
-    def is_anonymous(self):
-        return False
-
     def create_data_source(self, datasource):
-        make_data_source(self.username, datasource)
+        FileController().make_item(self.username, datasource, 'data_source')
 
     def delete_source(self, datasource):
-        delete_data_source(self.username, datasource)
+        FileController().delete_item(self.username, datasource, 'data_source')
 
     def fetch_data_list(self):
-        return make_data_source(self.username, data_source=None, fetch=True)
+        return FileController().make_item(self.username, item=None, path_name='data_source', fetch=True)
 
     def make_data(self, table_name):
-        return make_data_table(self.username, table_name)
+        FileController().make_item(self.username, table_name, 'data_table')
 
     def fetch_table_list(self):
-        return make_data_table(self.username, data_table=None, fetch=True)
+        return FileController().make_item(self.username, item=None, path_name='data_table', fetch=True)
 
     def delete_data(self, table_name):
-        delete_data_table(self.username, table_name)
+        FileController().delete_item(self.username, table_name, 'data_table')
 
     def load_in_keys(self):
         try:
             keys = self.c.execute("SELECT * FROM secrets WHERE username = '{}'".format(self.username)).fetchall()[0]
-            unlocker = self.c.execute("SELECT * FROM secret_keys WHERE username = '{}'".format(self.username)).fetchall()[0]
-            key1 = Fernet(unlocker[1])
-            key2 = Fernet(unlocker[2])
+            ul = self.c.execute("SELECT * FROM secret_keys WHERE username = '{}'".format(self.username)).fetchall()[0]
+            key1 = Fernet(ul[1])
+            key2 = Fernet(ul[2])
             x = MultiFernet([key1, key2])
             access_token = x.decrypt(keys[1]).decode()
             access_token_secret = x.decrypt(keys[2]).decode()
             consumer_key = x.decrypt(keys[3]).decode()
             consumer_secret = x.decrypt(keys[4]).decode()
-            token_dict = {"access_token":access_token, "access_token_secret":access_token_secret,
-                          "consumer_key":consumer_key, "consumer_secret":consumer_secret}
+            token_dict = {"access_token": access_token, "access_token_secret": access_token_secret,
+                          "consumer_key": consumer_key, "consumer_secret": consumer_secret}
             return token_dict
         except AttributeError:
             return None
-

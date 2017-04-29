@@ -10,7 +10,7 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="data" uuid="bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d">
+    <data-source source="LOCAL" name="data" uuid="becfff4b-c67c-4d95-9508-0304f93f8591">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
@@ -29,7 +29,7 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="data1" uuid="61d3a169-c2a8-47ed-adf0-979d59bbb935">
+    <data-source source="LOCAL" name="data1" uuid="405adc8f-859e-47b7-9048-14fec6837ef6">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
