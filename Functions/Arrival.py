@@ -173,24 +173,17 @@ class User:
                                             logged_in, subscribed, charts, models, groups, first_name, last_name,
                                             friends, active, reset_request, data_sources, projects
                                             FROM users WHERE username='{}'""".format(self.username)).fetchall()[0]
-        self.user_dict = {'id': self.user_items[0],
-                          'email': self.user_items[1],
-                          'email_verified': self.user_items[2],
-                          'username': self.user_items[3],
-                          'is_authenticated': self.user_items[4],
-                          'data_tables': self.user_items[5],
-                          'logged_in': self.user_items[6],
-                          'subscribed': self.user_items[7],
-                          'charts': self.user_items[8],
-                          'models': self.user_items[9],
-                          'groups': self.user_items[10],
-                          'first_name': self.user_items[11],
-                          'last_name': self.user_items[12],
-                          'friends': self.user_items[13],
-                          'active': self.user_items[14],
-                          'reset_request': self.user_items[15],
-                          'data_sources': self.user_items[16],
-                          'projects': self.user_items[17]}
+        self.user_dict = {'id': self.user_items[0], 'email': self.user_items[1], 'email_verified': self.user_items[2],
+                          'username': self.user_items[3], 'is_authenticated': self.user_items[4],
+                          'data_tables': self.fetch_table_list(), 'logged_in': self.user_items[6],
+                          'subscribed': self.user_items[7], 'charts': self.user_items[8], 'models': self.user_items[9],
+                          'groups': self.user_items[10], 'first_name': self.user_items[11],
+                          'last_name': self.user_items[12], 'friends': self.user_items[13],
+                          'active': self.user_items[14], 'reset_request': self.user_items[15],
+                          'data_sources': self.fetch_data_list(), 'projects': self.user_items[17],
+                          'table_count_keywords': list(zip(self.fetch_table_list(),
+                                                           self.fetch_table_counts(),
+                                                           self.fetch_keywords_list()))}
         return self.user_dict
 
     def user_exists(self, username):
@@ -219,11 +212,29 @@ class User:
     def fetch_data_list(self):
         return FileController().make_item(self.username, item=None, path_name='data_source', fetch=True)
 
+    def fetch_table_counts(self):
+        con = sqlite3.connect(settings['USERS_DB'].format(self.username))
+        tables = self.fetch_table_list()
+        my_list = []
+        for table in tables:
+            my_list.append(con.execute("SELECT Count(*) FROM '{}'".format(table)).fetchone()[0])
+        return my_list
+
     def make_data(self, table_name):
         FileController().make_item(self.username, table_name, 'data_table')
 
     def fetch_table_list(self):
         return FileController().make_item(self.username, item=None, path_name='data_table', fetch=True)
+
+    def fetch_keywords_list(self):
+        con = sqlite3.connect(settings['MAIN_DB'])
+        tables = self.fetch_table_list()
+        my_list = []
+        for table in tables:
+            my_list.append(con.execute("SELECT keywords FROM KeywordTable"
+                                       " WHERE username='{}' "
+                                       "AND table_name='{}'".format(self.username, table)).fetchone()[0])
+        return my_list
 
     def delete_data(self, table_name):
         FileController().delete_item(self.username, table_name, 'data_table')

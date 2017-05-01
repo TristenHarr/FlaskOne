@@ -2,40 +2,33 @@
 {% from "Arrival/_formhelpers.html" import render_field %}
 {% block body %}
 
-    <div id="AddTable" class="modal fade" role="dialog" style="margin: 0 auto;">
+    <div id="myModal" class="modal fade" role="dialog" style="margin: 0 auto;">
         <div class="modal-dialog">
 
             <!-- Modal content-->
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title">Add A Table</h4>
+                    <h4 class="modal-title">{{ my_title }}</h4>
                 </div>
                 <div class="modal-body" style="justify-content: center;">
-                    <img src="/static/twitter.jpg">
                      <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
                           <dl>
-                            {{ render_field(form.limit) }}
-                              <br>
-                            {{ render_field(form.limit_type) }}
-                              <br>
-                              {{ render_field(form.keywords) }}
-                               <br>
-                              {{ render_field(form.table) }}
-                              <br>
-                              {{ render_field(form.password) }}
+                              {% for field in form %}
+                              {{ render_field(field) }}
+                              {% endfor %}
                           </dl>
                         <div class="form-group">
                                 <button type="submit" class="btn btn-success" style="width: 50%;font-size: 20px;" value="TwitterConfig">Submit</button>
                             <br>
                         </div>
                     </form>
-                </div>
+
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
             </div>
-
+            </div>
         </div>
     </div>
     <div id="Export" class="modal fade" role="dialog">
@@ -45,21 +38,10 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h1 class="modal-title">Coming Soon!</h1>
+                    <h1>{{ exp }}</h1>
                 </div>
- <div class="modal-body" style="justify-content: center;">
-                     <form class="form-horizontal" action="" method="post" enctype="multipart/form-data">
-                          <dl>
-                              {{ render_field(form2.table) }}
-                              <br>
-                            {{ render_field(form2.choice) }}
-                              <br>
-                          </dl>
-                        <div class="form-group">
-                                <button type="submit" class="btn btn-success" style="width: 50%;font-size: 20px;" value="TwitterConfig">Submit</button>
-                            <br>
-                        </div>
-                    </form>
-                </div>
+
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
@@ -69,7 +51,7 @@
     </div>
     <div class="button-group" role="group" style="padding-top: 10%; margin: 0 auto;">
     <button type="submit" class="btn btn-default" data-toggle="modal" data-target="#AddTable">Add Table</button>
-    <button class="btn btn-default" data-toggle="modal" data-target="#Export">Export Table</button>
+    <a href="/datasets/new_table">New Table</a>
     </div>
     <div class="container-fluid">
     {% if loading %}
@@ -90,24 +72,28 @@
         <thead>
         <tr>
         <th>Table</th>
-        <th>Items</th>
-        <th>Keywords</th>
         <th>View Table</th>
+        <th>Export Table</th>
         <th>Delete Table</th>
         </tr>
         </thead>
         <tbody>
-        {% for item in session.table_count_keywords %}
+        {% for table in session.data_tables %}
             <tr>
-            <td>{{ item.0 }}</td>
-                <td>{{ item.1 }}</td>
-                <td>{{ item.2 }}</td>
-                <td><a href="/datasets/view/{{ item.0 }}" target="_blank"><span class="glyphicon glyphicon-eye-open" aria-hidden="true" style="float: right;"></span>&nbsp; View {{ table }}</a></td>
-                <td><a href="/datasets/delete/{{ item.0 }}"><span class="glyphicon glyphicon-trash" aria-hidden="true" style="float: right;"></span>&nbsp; Delete {{ table }}</a></td>
+            <td>{{ table }}</td>
+                <td><a href="/datasets/view/{{ table }}" target="_blank"><span class="glyphicon glyphicon-eye-open" aria-hidden="true" style="float: right;"></span>&nbsp; View {{ table }}</a></td>
+                <td><button class="btn btn-default" data-toggle="modal" data-target="#Export"  value="{{ table }}">Export</button> <span class="glyphicon glyphicon-download" aria-hidden="true" style="float: right;"></span>&nbsp; Export {{ table }}</td>
+                <td><a href="/datasets/delete/{{ table }}"><span class="glyphicon glyphicon-trash" aria-hidden="true" style="float: right;"></span>&nbsp; Delete {{ table }}</a></td>
             </tr>
         {% endfor %}
         </tbody>
     </table>
     </div>
+    {% if loads %}
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $("#myModal").modal('show');
+    });
+    {% endif %}
+    </script>
 {% endblock %}
-{#<a href="/datasets/export/{{ table }}">#}

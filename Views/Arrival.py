@@ -43,3 +43,13 @@ class ScrapeKeywordsForm(Form):
     keywords = TextAreaField("Keywords, separated by a comma", [validators.InputRequired()])
     table = StringField("Table Name", [validators.InputRequired(), validators.Length(min=1, max=25)])
     password = PasswordField("Confirm Password", [validators.InputRequired()])
+
+
+class ExportForm(Form):
+    table = StringField("Table Name", [validators.InputRequired(), validators.Length(min=1, max=25)])
+    choice = RadioField("Export As", [validators.InputRequired()],
+                           choices=[('csv','CSV'),
+                                    ('json', "JSON"),
+                                    ("excel", "Excel"),
+                                    ("html", "html"),
+                                    ("LaTeX", "LaTeX")])
