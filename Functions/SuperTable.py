@@ -116,16 +116,9 @@ function {item}_finder() {left}
             data.append(list(zip(row, self.indices)))
         for item in data:
             body +=str("""
-            <td>{}</td>"""*len(item)).format(*[stuff[0] for stuff in item])+"</tr> <tr>"
+            <td contenteditable='true'>{}</td>"""*len(item)).format(*[stuff[0] for stuff in item])+"</tr> <tr>"
         body = body.rstrip('<tr>')+"</table></body></html>"
-        file = open(os.getcwd()+"/neato.html", 'w')
-        file.write(start+body)
-        file.close()
-
-x = SuperTable('tweet', 'Thetable', 'Admin')
-x.generate_functions()
-x.main_maker()
-x.table_starter(10)
+        return start+body
 
 
 

@@ -8,13 +8,15 @@ from flask import render_template, stream_with_context
 
 from Functions.Arrival import CreateUser, User
 from USERS.manager import FileController
-from Views.Arrival import RegistrationForm, LoginForm, TwitterForm, ScrapeKeywordsForm, ExportForm
+from Views.Arrival import RegistrationForm, LoginForm, TwitterForm, ScrapeKeywordsForm
 from USERS.TwitterScraper import Scraper
 from conf import load_in
+from Functions.SuperTable import SuperTable
+from Analysis.wordcount import wc
+
 settings = load_in()
 app = Flask(__name__)
 app.secret_key = bytes(random.getrandbits(16))
-
 
 def login_required():
     if session['counter'] < 2:
@@ -142,6 +144,7 @@ def datasets():
     if login_required():
         return redirect("/login")
     form = ScrapeKeywordsForm(request.form)
+    from Views.DynamicForm import ExportForm
     form2 = ExportForm(request.form)
     if request.method == 'POST' and form.validate():
         limit = form.limit.data
@@ -158,7 +161,6 @@ def datasets():
         con.commit()
         con.close()
         my_list = list(map(lambda x: x.strip(), keywords.split(',')))
-        User(session['username']).make_data(table)
 
         def load_stuff(lim_type, lim, mylist, the_table, current_session):
             if User(current_session['username']).login_user(password):
@@ -168,19 +170,16 @@ def datasets():
                 thing.search_configure(mylist)
                 thing.database_config(current_session['username'], the_table)
                 thing.set_keys(User(current_session['username']).load_in_keys())
-                the_dict = User(current_session['username']).load_user()
-                for items in the_dict.items():
-                    current_session[items[0]] = items[1]
-                yield render_template('User/datasets.html',
-                                      form=form,
-                                      form2 = form2,
-                                      session=current_session,
-                                      loading={"table": the_table, "limit_t": lim_type, "limit": lim})
+                User(session['username']).make_data(table)
                 thing.scrape()
-                return render_template('User/datasets.html', form=form, form2=form2, session=current_session)
-        the_dict = User(session['username']).load_user()
-        for items in the_dict.items():
-            session[items[0]] = items[1]
+            stuff = User(current_session['username']).load_user()
+            current_session['data_tables'] = stuff['data_tables']
+            current_session['table_count_keywords'] = stuff['table_count_keywords']
+            yield render_template('User/datasets.html',
+                                  form=form,
+                                  form2=form2,
+                                  session=current_session)
+
         return Response(stream_with_context(load_stuff(limit_type, limit, my_list, table, session)))
     elif request.method == 'POST' and form2.validate():
         table = form2.table.data
@@ -213,7 +212,6 @@ def datasets():
 
         return render_template("User/datasets.html", form=form, session=session, form2=form2)
     else:
-        session['data_tables'] = User(session['username']).fetch_table_list()
         return render_template("User/datasets.html", form=form, session=session, form2=form2)
 
 
@@ -229,12 +227,21 @@ def charts():
     return render_template("User/charts.html")
 
 
-@app.route('/models')
+@app.route('/models', methods=["POST", "GET"])
 def models():
     sumsessioncounter()
     if login_required():
         return redirect("/login")
-    return render_template("User/models.html")
+    from Views.DynamicForm import ModelForm
+    form = ModelForm(request.form)
+    if request.method == "POST" and form.validate():
+        table = form.table.data
+        model = form.model_type.data
+        rows = form.rows.data
+        if model == 'wc':
+            wordcounts = wc(table, rows)
+
+    return render_template("User/models.html", form=form)
 
 
 @app.route('/projects')
@@ -285,7 +292,18 @@ def delete_table(item):
     con.execute("DROP TABLE IF EXISTS {}".format(item))
     con.commit()
     con.close()
+    stuff = User(session['username']).load_user()
+    session['data_tables'] = stuff['data_tables']
+    session['table_count_keywords'] = stuff['table_count_keywords']
     return redirect("/datasets")
+
+@app.route('/supertable/<table>', methods=["POST", "GET"])
+def supertable(table):
+    x = SuperTable('tweet', table, session['username'])
+    x.generate_functions()
+    x.main_maker()
+    x.table_starter(10)
+    return Response()
 
 
 @app.route('/datasets/export/<item>')
@@ -293,7 +311,6 @@ def export_table(item):
     sumsessioncounter()
     con = sqlite3.connect(settings['USERS_DB'].format(session['username']))
     my_frame = pd.read_sql_query("SELECT * FROM '{}'".format(item), con)
-    print(my_frame)
     return redirect("/datasets")
 
 

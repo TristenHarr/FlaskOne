@@ -253,5 +253,7 @@ class User:
             token_dict = {"access_token": access_token, "access_token_secret": access_token_secret,
                           "consumer_key": consumer_key, "consumer_secret": consumer_secret}
             return token_dict
+
+            # return token_dict
         except AttributeError:
             return None

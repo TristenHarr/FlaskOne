@@ -116,3 +116,4 @@ def load_in():
         my_setup[splitted[0]] = splitted[1]
     file.close()
     return my_setup
+

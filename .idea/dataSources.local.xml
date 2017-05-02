@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="identifier.sqlite" uuid="bffe7686-6653-4beb-b3a0-3dc703667418">
-      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
-      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <secret-storage>master_key</secret-storage>
-      <auth-required>false</auth-required>
-      <introspection-schemas>*:main</introspection-schemas>
-    </data-source>
-    <data-source name="data" uuid="becfff4b-c67c-4d95-9508-0304f93f8591">
+    <data-source name="data" uuid="cbcad701-6c38-443f-a694-993348fd006f">
       <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
-    <data-source name="data1" uuid="405adc8f-859e-47b7-9048-14fec6837ef6">
+    <data-source name="data1" uuid="80d52732-3b6f-4445-8cb5-32f46dc74188">
       <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <introspection-schemas>*:main</introspection-schemas>
-    </data-source>
-    <data-source name="data1 [2]" uuid="4644d09e-b45e-4c78-90ff-2409a8b2aefb">
-      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
-      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <introspection-schemas>*:main</introspection-schemas>
-    </data-source>
-    <data-source name="data [2]" uuid="2a04a32c-f5fd-4d2e-9cc2-166f322b03f4">
-      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
-      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <introspection-schemas>*:main</introspection-schemas>
+      <introspection-schemas>*</introspection-schemas>
     </data-source>
   </component>
 </project>
