@@ -6,7 +6,7 @@ from cryptography.fernet import Fernet, MultiFernet
 from flask import Flask, session, redirect, request, Response
 from flask import render_template, stream_with_context
 
-from Functions.Arrival import create_user, User #setup
+from Functions.Arrival import CreateUser, User  # setup
 from USERS.manager import file_handler
 from Views.Arrival import RegistrationForm, LoginForm, TwitterForm, ScrapeKeywordsForm
 from USERS.TwitterScraper import Scraper
@@ -27,6 +27,7 @@ def login_required():
         session.clear()
         return True
 
+
 def form_maker(keys, datatypes):
     my_list = []
     for item in zip(keys, datatypes):
@@ -34,21 +35,23 @@ def form_maker(keys, datatypes):
     return my_list
 
 
-def sumSessionCounter():
+def sum_session_counter():
     try:
         session['counter'] += 1
     except KeyError:
         session['counter'] = 1
 
+
 @app.route('/', methods=['POST', 'GET'])
 def arrival():
     return redirect('/login')
+
 
 @app.route('/login', methods=["GET", "POST"])
 def login():
     form = LoginForm(request.form)
     data_dict = {}
-    sumSessionCounter()
+    sum_session_counter()
     if request.method == 'POST' and form.validate():
         data_dict['username'] = form.username.data
         data_dict['password'] = form.password.data
@@ -65,12 +68,15 @@ def login():
 
 @app.route('/test')
 def a_test():
-    sumSessionCounter()
+    sum_session_counter()
+
     def generate():
         yield 'Test'
         yield session['username']
         yield '!'
     return Response(stream_with_context(generate()))
+
+
 @app.route('/register', methods=["GET", "POST"])
 def register():
     form = RegistrationForm(request.form)
@@ -80,7 +86,7 @@ def register():
         data_dict['username'] = form.username.data
         data_dict['password'] = form.password.data
         data_dict['email'] = form.email.data
-        user = create_user(data_dict)
+        user = CreateUser(data_dict)
         success = user.make_account()
         if not success:
             return render_template('Arrival/signup.html', form=form, nameerror="That username is taken")
@@ -88,6 +94,7 @@ def register():
             file_handler(data_dict['username'])
             return redirect("login")
     return render_template('Arrival/signup.html', form=form)
+
 
 @app.route('/logout')
 def logout():
@@ -97,7 +104,7 @@ def logout():
 
 @app.route('/home')
 def homepage():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     return render_template('User/base.html')
@@ -105,7 +112,7 @@ def homepage():
 
 @app.route('/datasources', methods=["POST", "GET"])
 def datasources():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     form = TwitterForm(request.form)
@@ -114,7 +121,7 @@ def datasources():
         m2 = form.access_token_secret.data
         m3 = form.consumer_key.data
         m4 = form.consumer_secret.data
-        my_list = [bytes(m1, 'utf-8'), bytes(m2, 'utf-8'),bytes(m3, 'utf-8'),bytes(m4, 'utf-8')]
+        my_list = [bytes(m1, 'utf-8'), bytes(m2, 'utf-8'), bytes(m3, 'utf-8'), bytes(m4, 'utf-8')]
         first = Fernet.generate_key()
         second = Fernet.generate_key()
         key1 = Fernet(first)
@@ -146,10 +153,9 @@ def datasources():
         return render_template('User/datasources.html', form=form, sources=sources)
 
 
-
 @app.route('/datasets', methods=["POST", "GET"])
 def datasets():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     form = ScrapeKeywordsForm(request.form)
@@ -179,9 +185,9 @@ def datasets():
                 thing.database_config(session['username'], table)
                 thing.set_keys(User(session['username']).load_in_keys())
                 session['data_tables'] = User(session['username']).fetch_table_list()
-                yield render_template('User/datasets.html', form=form, session=session, loading={"table":table,
-                                                                                                 "limit_t":limit_type,
-                                                                                                 "limit":limit})
+                yield render_template('User/datasets.html', form=form, session=session, loading={"table": table,
+                                                                                                 "limit_t": limit_type,
+                                                                                                 "limit": limit})
                 thing.scrape()
                 return render_template('User/datasets.html', form=form, session=session)
         session['data_tables'] = User(session['username']).fetch_table_list()
@@ -191,42 +197,46 @@ def datasets():
         return render_template("User/datasets.html", form=form, session=session)
 
 
-
 @app.route('/charts')
 def charts():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     return render_template("User/charts.html")
 
+
 @app.route('/models')
 def models():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     return render_template("User/models.html")
 
+
 @app.route('/projects')
 def projects():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     return render_template("User/projects.html")
 
+
 @app.route('/groups')
 def groups():
-    sumSessionCounter()
+    sum_session_counter()
     if login_required():
         return redirect("/login")
     return render_template("User/groups.html")
+
 
 @app.route('/datasources/edit/<item>')
 def edit_datasource(item):
     return "<h1>Needs Built</h1>"
 
+
 @app.route('/datasources/delete/<item>')
 def delete_datasource(item):
-    sumSessionCounter()
+    sum_session_counter()
     User(session['username']).delete_source(item)
     session['data_sources'] = User(session['username']).fetch_data_list()
     con = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
@@ -236,9 +246,10 @@ def delete_datasource(item):
     con.close()
     return redirect("/datasources")
 
+
 @app.route('/datasets/delete/<item>')
 def delete_table(item):
-    sumSessionCounter()
+    sum_session_counter()
     User(session['username']).delete_data(item)
     session['data_tables'] = User(session['username']).fetch_table_list()
     con = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
@@ -251,9 +262,10 @@ def delete_table(item):
     con.close()
     return redirect("/datasets")
 
+
 @app.route('/datasets/export/<item>/<export>')
 def export_table(item, export):
-    sumSessionCounter()
+    sum_session_counter()
     con = sqlite3.connect("PycharmProjects/FlaskOne/USERS/{}/data1.db".format(session['username']))
     my_frame = pd.read_sql_query("SELECT * FROM '{}'".format(item), con)
 

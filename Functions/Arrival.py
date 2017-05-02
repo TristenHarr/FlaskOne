@@ -3,12 +3,15 @@ import sqlite3
 from USERS.manager import *
 from cryptography.fernet import Fernet, MultiFernet
 
-def make_password(password):
-    hash = pbkdf2_sha256.encrypt(password, rounds=200000, salt_size=16)
-    return hash
 
-def check_password(password, hash):
-    return (pbkdf2_sha256.verify(password, hash))
+def make_password(password):
+    hash_value = pbkdf2_sha256.encrypt(password, rounds=200000, salt_size=16)
+    return hash_value
+
+
+def check_password(password, hash_value):
+    return pbkdf2_sha256.verify(password, hash_value)
+
 
 def setup():
     conn = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
@@ -60,23 +63,23 @@ def setup():
         data_tables='',
         logged_in=1,
         subscribed=0,
-        charts = "",
-        models = "",
-        groups = "",
-        first_name = "",
-        last_name = "",
-        friends = "",
-        active = 1,
-        reset_request = 0,
-        data_sources = "",
-        projects = "",
-        is_authenticated = 0))
+        charts="",
+        models="",
+        groups="",
+        first_name="",
+        last_name="",
+        friends="",
+        active=1,
+        reset_request=0,
+        data_sources="",
+        projects="",
+        is_authenticated=0))
     conn.commit()
     conn.close()
     file_handler("Admin")
 
 
-class create_user():
+class CreateUser:
 
     def __init__(self, data):
         self.email = data['email']
@@ -129,24 +132,23 @@ class create_user():
                             data_tables='',
                             logged_in=0,
                             subscribed=0,
-                            charts = "",
-                            models = "",
-                            groups = "",
-                            first_name = "",
-                            last_name = "",
-                            friends = "",
-                            active = 1,
-                            reset_request = 0,
-                            data_sources = "",
-                            projects = "",
-                            is_authenticated = 0))
+                            charts="",
+                            models="",
+                            groups="",
+                            first_name="",
+                            last_name="",
+                            friends="",
+                            active=1,
+                            reset_request=0,
+                            data_sources="",
+                            projects="",
+                            is_authenticated=0))
             self.con.commit()
             self.con.close()
             return True
 
 
-
-class User():
+class User:
 
     def __init__(self, username):
         self.con = sqlite3.connect("PycharmProjects/FlaskOne/DATABASE/data.db")
@@ -156,10 +158,14 @@ class User():
         self.keys = None
         if self.user_exists(username):
             self.username = username
-            self.password = self.c.execute("SELECT password FROM users WHERE username='{}'".format(username)).fetchone()[0]
+            self.password = self.c.execute("SELECT password FROM users WHERE username='{}'"
+                                           .format(username)).fetchone()[0]
 
     def load_user(self):
-        self.user_items = self.c.execute("""SELECT id, email, email_verified, username, is_authenticated, data_tables, logged_in, subscribed, charts, models, groups, first_name, last_name, friends, active, reset_request, data_sources, projects FROM users WHERE username='{}'""".format(self.username)).fetchall()[0]
+        self.user_items = self.c.execute("""SELECT id, email, email_verified, username, is_authenticated, data_tables, 
+                                         logged_in, subscribed, charts, models, groups, first_name, last_name, friends, 
+                                         active, reset_request, data_sources, projects FROM users WHERE username='{}'"""
+                                         .format(self.username)).fetchall()[0]
         self.user_dict = {'id': self.user_items[0],
                           'email': self.user_items[1],
                           'email_verified': self.user_items[2],
@@ -180,9 +186,9 @@ class User():
                           'projects': self.user_items[17]}
         return self.user_dict
 
-
     def user_exists(self, username):
-        valid = self.c.execute("SELECT EXISTS(SELECT username from users WHERE username = '{}')".format(username)).fetchone()[0]
+        valid = self.c.execute("SELECT EXISTS(SELECT username from users WHERE username = '{}')"
+                               .format(username)).fetchone()[0]
         return valid
 
     def login_user(self, password):
@@ -197,7 +203,8 @@ class User():
     def is_active(self):
         return self.user_dict['is_active']
 
-    def is_anonymous(self):
+    @staticmethod
+    def is_anonymous():
         return False
 
     def create_data_source(self, datasource):
@@ -220,8 +227,10 @@ class User():
 
     def load_in_keys(self):
         try:
-            keys = self.c.execute("SELECT * FROM secrets WHERE username = '{}'".format(self.username)).fetchall()[0]
-            unlocker = self.c.execute("SELECT * FROM secret_keys WHERE username = '{}'".format(self.username)).fetchall()[0]
+            keys = self.c.execute("SELECT * FROM secrets WHERE username = '{}'"
+                                  .format(self.username)).fetchall()[0]
+            unlocker = self.c.execute("SELECT * FROM secret_keys WHERE username = '{}'"
+                                      .format(self.username)).fetchall()[0]
             key1 = Fernet(unlocker[1])
             key2 = Fernet(unlocker[2])
             x = MultiFernet([key1, key2])
@@ -229,9 +238,8 @@ class User():
             access_token_secret = x.decrypt(keys[2]).decode()
             consumer_key = x.decrypt(keys[3]).decode()
             consumer_secret = x.decrypt(keys[4]).decode()
-            token_dict = {"access_token":access_token, "access_token_secret":access_token_secret,
-                          "consumer_key":consumer_key, "consumer_secret":consumer_secret}
+            token_dict = {"access_token": access_token, "access_token_secret": access_token_secret,
+                          "consumer_key": consumer_key, "consumer_secret": consumer_secret}
             return token_dict
         except AttributeError:
             return None
-
