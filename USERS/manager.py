@@ -1,5 +1,6 @@
 import os
 
+
 def file_handler(username):
     os.mkdir("PycharmProjects/FlaskOne/USERS/{}".format(username))
     first = open("PycharmProjects/FlaskOne/USERS/{}/_data_sources.txt".format(username), 'a')
@@ -12,6 +13,7 @@ def file_handler(username):
     first.close()
     first = open("PycharmProjects/FlaskOne/USERS/{}/_projects.txt".format(username), 'a')
     first.close()
+
 
 def make_data_source(user, data_source, fetch=False):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_data_sources.txt'.format(user), 'r')
@@ -26,6 +28,7 @@ def make_data_source(user, data_source, fetch=False):
         data.write(data_source + '\n')
         data.close()
 
+
 def make_data_table(user, data_table, fetch=False):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_data_tables.txt'.format(user), 'r')
     my_items = []
@@ -39,6 +42,7 @@ def make_data_table(user, data_table, fetch=False):
         data.write(data_table + '\n')
         data.close()
 
+
 def make_model(user, model):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_models.txt'.format(user), 'r')
     my_items = []
@@ -49,6 +53,7 @@ def make_model(user, model):
         data = open('PycharmProjects/FlaskOne/USERS/{}/_models.txt'.format(user), 'a')
         data.write(model + '\n')
         data.close()
+
 
 def make_chart(user, chart):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_charts.txt'.format(user), 'r')
@@ -61,6 +66,7 @@ def make_chart(user, chart):
         data.write(chart + '\n')
         data.close()
 
+
 def make_project(user, project):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_projects.txt'.format(user), 'r')
     my_items = []
@@ -71,6 +77,7 @@ def make_project(user, project):
         data = open('PycharmProjects/FlaskOne/USERS/{}/_projects.txt'.format(user), 'a')
         data.write(project + '\n')
         data.close()
+
 
 def delete_data_source(user, data_source):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_data_sources.txt'.format(user), 'r')
@@ -85,6 +92,7 @@ def delete_data_source(user, data_source):
             data.write(line + '\n')
         data.close()
 
+
 def delete_data_table(user, table):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_data_tables.txt'.format(user), 'r')
     my_items = []
@@ -97,6 +105,7 @@ def delete_data_table(user, table):
         for line in my_items:
             data.write(line + '\n')
         data.close()
+
 
 def delete_chart(user, chart):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_charts.txt'.format(user), 'r')
@@ -111,6 +120,7 @@ def delete_chart(user, chart):
             data.write(line + '\n')
         data.close()
 
+
 def delete_model(user, model):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_models.txt'.format(user), 'r')
     my_items = []
@@ -123,6 +133,7 @@ def delete_model(user, model):
         for line in my_items:
             data.write(line + '\n')
         data.close()
+
 
 def delete_project(user, project):
     data = open('PycharmProjects/FlaskOne/USERS/{}/_projects.txt'.format(user), 'r')

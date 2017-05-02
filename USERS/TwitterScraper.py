@@ -9,7 +9,6 @@ import re
 from datetime import date
 
 
-
 class Extraction(object):
 
     def __init__(self):
@@ -453,6 +452,7 @@ class Scraper(object):
 
     def set_languages(self, languages):
         self.lang = languages
+
     def set_keys(self, keys):
         self.access_token = keys['access_token']
         self.access_token_secret = keys['access_token_secret']
@@ -473,4 +473,3 @@ class Scraper(object):
             stream.filter(locations=self.items)
         elif self.search == 'location':
             stream.filter(locations=self.items, languages=self.lang)
-
