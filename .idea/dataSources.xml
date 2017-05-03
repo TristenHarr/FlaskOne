@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="identifier.sqlite" uuid="bffe7686-6653-4beb-b3a0-3dc703667418">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:identifier.sqlite</jdbc-url>
-      <driver-properties>
-        <property name="enable_load_extension" value="true" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="data" uuid="bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d">
+    <data-source source="LOCAL" name="data" uuid="cbcad701-6c38-443f-a694-993348fd006f">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
@@ -29,7 +20,7 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="data1" uuid="61d3a169-c2a8-47ed-adf0-979d59bbb935">
+    <data-source source="LOCAL" name="data1" uuid="80d52732-3b6f-4445-8cb5-32f46dc74188">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>

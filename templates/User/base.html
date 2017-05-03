@@ -117,11 +117,11 @@
                 <div id="data" class="panel-collapse collapse">
                     <ul class="list-group" style="text-align: center;">
                         <li class="list-group-item"><strong><a href="/datasets" class="btn btn-primary">All Datasets</a></strong></li>
-                        {% if session.data_tables|length < 1 %}
+                        {% if session.table_count_keywords|length < 1 %}
                             <li class="list-group-item">You Don't Have Any Data Tables!</li>
                         {% else %}
-                            {% for table in session.data_tables %}
-                                <li class="list-group-item"><strong>{{ table }}</strong></li>
+                            {% for table in session.table_count_keywords %}
+                                <li class="list-group-item"><strong>{{ table.0 }} {{ table.1 }}</strong></li>
                             {% endfor %}
                         {% endif %}
                     </ul>

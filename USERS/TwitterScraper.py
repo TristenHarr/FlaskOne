@@ -7,7 +7,13 @@ import sqlite3
 import random
 import re
 from datetime import date
+from conf import load_in
+from flask import session
+from Functions.Arrival import User
 
+settings = load_in()
+
+# TODO: *PROJECT MILESTONE* Turn this into a wrapper for any JSON formatted data
 
 
 class Extraction(object):
@@ -22,6 +28,7 @@ class Extraction(object):
         self.database = None
         self.table = None
         self.manage = None
+        self.limiting = 0
 
     def connect(self, username, table_name):
         # TODO: The CONTROL database is currently only slightly operational.
@@ -42,7 +49,7 @@ class Extraction(object):
         self.database = username
         self.table = table_name
         # Connects to a SQLite database with the specified database name
-        self.conn = sqlite3.connect("PycharmProjects/FlaskOne/USERS/{}/data1.db".format(username))
+        self.conn = sqlite3.connect(settings['USERS_DB'].format(username))
         # Creates a table with the specified table name if it doesn't already exist
         self.conn.execute("CREATE TABLE IF NOT EXISTS {tn} (days INTEGER,"
                           "favorites INTEGER,"
@@ -262,6 +269,7 @@ class Extraction(object):
             self.conn.execute("INSERT INTO {0} VALUES('{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}',"
                               "'{10}','{11}','{12}','{13}','{14}','{15}','{16}','{17}','{18}','{19}','{20}',"
                               "'{21}','{22}','{23}','{24}','{25}','{26}','{27}','{28}')".format(self.table, *my_items))
+            self.limiting += 1
             return 0
         except sqlite3.IntegrityError:
             return 1
@@ -274,6 +282,8 @@ class Extraction(object):
         """
         self.conn.commit()
         self.conn.close()
+
+
 
 
 # class DataManager(object):
@@ -453,6 +463,7 @@ class Scraper(object):
 
     def set_languages(self, languages):
         self.lang = languages
+
     def set_keys(self, keys):
         self.access_token = keys['access_token']
         self.access_token_secret = keys['access_token_secret']
@@ -473,4 +484,3 @@ class Scraper(object):
             stream.filter(locations=self.items)
         elif self.search == 'location':
             stream.filter(locations=self.items, languages=self.lang)
-

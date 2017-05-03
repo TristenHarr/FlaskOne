@@ -2,183 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b98e87f-32f8-4d17-a8cc-1a42b5222262" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/014b82f8-3aac-4d82-8aab-86d9921bbc90/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/6c335a83-7b03-4051-8ee3-e271123683ad/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e9f605b8-7ae4-4dc7-a5df-ba229f86713f/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DATABASE/data.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/twitter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/FlaskOne.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/1dc7cb15-7cc8-4866-945d-ac3710cdefac.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/25f3a5bf-a172-4671-959f-396c2da4b43f.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/39ec569f-9498-4577-8f7e-ee75b0940be1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/3fc890ec-d810-4a91-9c84-12dd79b0c1df.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/5ee2c2cc-688d-49f0-8f61-6d114a8fae7e.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/61d3a169-c2a8-47ed-adf0-979d59bbb935.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/771e9cbf-1c8b-4689-a58e-3c32906b794d.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/80c27830-a9d8-43b2-9579-3e713f6e2d4d.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418/storage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/c56c8681-7906-485d-b778-e7ae5506eb86.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/cc4e44c0-ad53-4fcd-bc70-3cc608714629.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/dddd2b0c-969e-4d01-a747-fc252b212228.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/eeb08461-96f7-455f-817e-d98ac361a679.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/ef7dfe97-9bda-4456-a981-f08181ccfc7a.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/f9de5e0c-2fd8-4721-b970-1deee32800f1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FlaskOne.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/Arrival.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graveyard/codeblob.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USERS/TwitterScraper.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USERS/manager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Views/Arrival.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Arrival/_formhelpers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Arrival/basearrive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Arrival/form-template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Arrival/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/Arrival/signup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/datasets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/datasources.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/groups.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/models.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/User/projects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Analysis/DataPuller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Analysis/MultiBayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Analysis/wordcount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Views/DynamicForm.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/07f69ceb-53d1-41b8-a382-e46bf645244f.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/293fb5b1-8e8e-4d3e-b054-ad2dd1ac0a1e.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/8952793e-2571-40aa-b0b4-1688cc132361.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/bffe7686-6653-4beb-b3a0-3dc703667418.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/c5db949f-befa-4aeb-9a30-18416e24001b.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/_metadata_/metadata_i.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/405adc8f-859e-47b7-9048-14fec6837ef6/_metadata_/metadata_i.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/4644d09e-b45e-4c78-90ff-2409a8b2aefb/_metadata_/metadata_i.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/becfff4b-c67c-4d95-9508-0304f93f8591/_metadata_/metadata_i.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FlaskOne.py" afterPath="$PROJECT_DIR$/FlaskOne.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/Arrival.py" afterPath="$PROJECT_DIR$/Functions/Arrival.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions/SuperTable.py" afterPath="$PROJECT_DIR$/Functions/SuperTable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/USERS/TwitterScraper.py" afterPath="$PROJECT_DIR$/USERS/TwitterScraper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/Arrival.py" afterPath="$PROJECT_DIR$/Views/Arrival.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.py" afterPath="$PROJECT_DIR$/conf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/User/base.html" afterPath="$PROJECT_DIR$/templates/User/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/User/datasets.html" afterPath="$PROJECT_DIR$/templates/User/datasets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/User/models.html" afterPath="$PROJECT_DIR$/templates/User/models.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -188,16 +61,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FlaskOne$TwitterScraper.coverage" NAME="TwitterScraper Coverage Results" MODIFIED="1493706437779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/USERS" />
     <SUITE FILE_PATH="coverage/FlaskOne$SignUpRouting.coverage" NAME="SignUpRouting Coverage Results" MODIFIED="1493154129944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TwitterScrape/Offsite" />
-    <SUITE FILE_PATH="coverage/FlaskOne$conn.coverage" NAME="conn Coverage Results" MODIFIED="1493155576865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
-    <SUITE FILE_PATH="coverage/FlaskOne$Arrival.coverage" NAME="Arrival Coverage Results" MODIFIED="1493262073013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Arrival.coverage" NAME="Arrival Coverage Results" MODIFIED="1493459922790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_codeblob_py.coverage" NAME="Unittests in codeblob.py Coverage Results" MODIFIED="1493331423170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FlaskOne$setup.coverage" NAME="setup Coverage Results" MODIFIED="1493158424308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
-    <SUITE FILE_PATH="coverage/FlaskOne$FlaskOne.coverage" NAME="FlaskOne Coverage Results" MODIFIED="1493360657746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/FlaskOne$manager.coverage" NAME="manager Coverage Results" MODIFIED="1493263335854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/USERS" />
-    <SUITE FILE_PATH="coverage/FlaskOne$codeblob.coverage" NAME="codeblob Coverage Results" MODIFIED="1493331568766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graveyard" />
+    <SUITE FILE_PATH="coverage/FlaskOne$conf.coverage" NAME="conf Coverage Results" MODIFIED="1493459562020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlaskOne$DynamicForm.coverage" NAME="DynamicForm Coverage Results" MODIFIED="1493759226717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Views" />
+    <SUITE FILE_PATH="coverage/FlaskOne$FlaskOne.coverage" NAME="FlaskOne Coverage Results" MODIFIED="1493763826923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_SetupTest_py.coverage" NAME="Unittests in SetupTest.py Coverage Results" MODIFIED="1493441674494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$manager.coverage" NAME="manager Coverage Results" MODIFIED="1493460606334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/USERS" />
     <SUITE FILE_PATH="coverage/FlaskOne$MainStream.coverage" NAME="MainStream Coverage Results" MODIFIED="1493346545002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TwitterScrape/Scraper" />
+    <SUITE FILE_PATH="coverage/FlaskOne$SuperTable.coverage" NAME="SuperTable Coverage Results" MODIFIED="1493627231798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/FlaskOne$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1493625955547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/FlaskOne$database.coverage" NAME="database Coverage Results" MODIFIED="1493104745932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
+    <SUITE FILE_PATH="coverage/FlaskOne$conn.coverage" NAME="conn Coverage Results" MODIFIED="1493155576865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DATABASES" />
+    <SUITE FILE_PATH="coverage/FlaskOne$PHPinterpreter.coverage" NAME="PHPinterpreter Coverage Results" MODIFIED="1493585312412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FlaskOne$setup.coverage" NAME="setup Coverage Results" MODIFIED="1493693101766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_LoginTest_py.coverage" NAME="Unittests in LoginTest.py Coverage Results" MODIFIED="1493369475639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$codeblob.coverage" NAME="codeblob Coverage Results" MODIFIED="1493595016993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graveyard" />
+    <SUITE FILE_PATH="coverage/FlaskOne$DataPuller.coverage" NAME="DataPuller Coverage Results" MODIFIED="1493756428758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analysis" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1493369488853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/FlaskOne$Unittests_in_FlaskOne_py.coverage" NAME="Unittests in FlaskOne.py Coverage Results" MODIFIED="1493399015057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FlaskOne$testingdata.coverage" NAME="testingdata Coverage Results" MODIFIED="1493229046013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OTHER" />
   </component>
   <component name="DatabaseView">
@@ -238,6 +122,24 @@
         <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
+        <option name="myItemId" value="data1" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="main" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="mytable5" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
         <option name="myItemId" value="data" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
@@ -259,130 +161,176 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FlaskOne.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FlaskOne.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="253" column="32" lean-forward="false" selection-start-line="253" selection-start-column="32" selection-end-line="253" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#728#798#0" expanded="false" />
-                <element signature="e#763#798#0" expanded="false" />
-                <element signature="e#837#949#0" expanded="false" />
-                <element signature="e#981#1069#0" expanded="false" />
-                <element signature="e#1131#1156#0" expanded="false" />
-                <element signature="e#2168#2834#0" expanded="false" />
-                <marker date="1493361589178" expanded="false" signature="4013:4168" ph="CREATE TABLE... missing_value" />
-                <marker date="1493361589178" expanded="true" signature="4221:4259" ph="INSERT INTO secret_key... " />
-                <marker date="1493361589178" expanded="false" signature="4325:4574" ph="CREATE TABLE... missing_value" />
-                <marker date="1493361589178" expanded="true" signature="4623:4657" ph="INSERT INTO secrets... " />
-                <marker date="1493361589178" expanded="true" signature="4623:4661" ph="INSERT INTO secrets... " />
-                <marker date="1493361589178" expanded="true" signature="4623:9928" ph="INSERT INTO secrets... " />
-                <marker date="1493361589178" expanded="true" signature="5734:5966" ph="CREATE TABLE... missing_value" />
-                <marker date="1493361589178" expanded="true" signature="6020:6059" ph="INSERT INTO secret_keys... " />
-                <marker date="1493361589178" expanded="true" signature="8703:8739" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="8703:8742" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="8790:8829" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="8790:8833" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="9230:9272" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="9230:9288" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="9230:9289" ph="DELETE FROM " />
-                <marker date="1493361589178" expanded="true" signature="9471:9492" ph="DROP TABLE I... " />
-                <marker date="1493361589178" expanded="true" signature="9471:9494" ph="DROP TABLE I... " />
-                <marker date="1493361589178" expanded="true" signature="9814:9832" ph="SELECT * FRO... missing_value" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwitterScraper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/USERS/TwitterScraper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7533">
-              <caret line="466" column="21" lean-forward="false" selection-start-line="466" selection-start-column="21" selection-end-line="466" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-                <marker date="1493354297133" expanded="true" signature="1752:3062" ph="CREATE TABLE... missing_value" />
-                <marker date="1493354297133" expanded="true" signature="14004:14280" ph="INSERT INTO missing_value... " />
-                <marker date="1493354297133" expanded="true" signature="15259:15449" ph="CREATE TABLE... missing_value" />
-                <marker date="1493354297133" expanded="true" signature="15927:16046" ph="INSERT INTO manager... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="streaming.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/tweepy/streaming.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1538">
-              <caret line="190" column="8" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datasources.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datasets.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/User/datasets.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_data_sources.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_sources.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/User/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1136">
-              <caret line="126" column="25" lean-forward="false" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="charts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/User/charts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.8794964">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="FlaskOne.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/FlaskOne.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="250" column="26" lean-forward="true" selection-start-line="250" selection-start-column="26" selection-end-line="250" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#0#13#0" expanded="true" />
+                    <element signature="e#1849#2531#0" expanded="false" />
+                    <element signature="e#2574#2619#0" expanded="false" />
+                    <element signature="e#2863#4881#0" expanded="false" />
+                    <element signature="e#7112#8498#0" expanded="false" />
+                    <element signature="e#8649#8774#0" expanded="false" />
+                    <element signature="e#9494#9619#0" expanded="false" />
+                    <element signature="e#9692#9737#0" expanded="false" />
+                    <element signature="e#9814#10251#0" expanded="false" />
+                    <marker date="1493765141245" expanded="true" signature="3689:3844" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="3897:3935" ph="INSERT INTO secret_keys... " />
+                    <marker date="1493765141245" expanded="true" signature="4001:4250" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="4299:4337" ph="INSERT INTO secrets... " />
+                    <marker date="1493765141245" expanded="true" signature="5467:5699" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="5753:5792" ph="INSERT INTO KeywordTable... " />
+                    <marker date="1493765141245" expanded="true" signature="7340:7358" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="10022:10061" ph="DELETE FROM " />
+                    <marker date="1493765141245" expanded="true" signature="10109:10152" ph="DELETE FROM " />
+                    <marker date="1493765141245" expanded="true" signature="10526:10585" ph="DELETE FROM " />
+                    <marker date="1493765141245" expanded="true" signature="10743:10764" ph="DROP TABLE I... " />
+                    <marker date="1493765141245" expanded="true" signature="11445:11460" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="11445:11463" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="11759:11847" ph="SELECT * FRO... missing_value" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="datasets.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/User/datasets.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="720">
+                  <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="models.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/User/models.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="800">
+                  <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="datasources.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="200">
+                  <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Arrival.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Views/Arrival.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="940">
+                  <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DynamicForm.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Views/DynamicForm.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="wordcount.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Analysis/wordcount.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+                  <folding>
+                    <marker date="1493763490514" expanded="true" signature="314:329" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493763490514" expanded="true" signature="314:332" ph="SELECT * FRO... " />
+                    <marker date="1493763490514" expanded="true" signature="314:333" ph="SELECT * FRO... missing_value" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MultiBayes.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Analysis/MultiBayes.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1240">
+                  <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DataPuller.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../TwitterScrape/Scraper/DataPuller.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3520">
+                  <caret line="176" column="83" lean-forward="false" selection-start-line="176" selection-start-column="83" selection-end-line="176" selection-end-column="83" />
+                  <folding>
+                    <marker date="1493103824966" expanded="true" signature="1154:1186" ph="INSERT INTO missing_value... " />
+                    <marker date="1493103824966" expanded="true" signature="1740:1758" ph="SELECT missi... missing_value" />
+                    <marker date="1493103824966" expanded="true" signature="2011:2029" ph="SELECT missi... missing_value" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="FlaskOne.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/FlaskOne.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3460">
+                  <caret line="173" column="25" lean-forward="false" selection-start-line="173" selection-start-column="25" selection-end-line="173" selection-end-column="25" />
+                  <folding>
+                    <marker date="1493765141245" expanded="true" signature="3689:3844" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="3897:3935" ph="INSERT INTO secret_keys... " />
+                    <marker date="1493765141245" expanded="true" signature="4001:4250" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="4299:4337" ph="INSERT INTO secrets... " />
+                    <marker date="1493765141245" expanded="true" signature="5467:5699" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="5753:5792" ph="INSERT INTO KeywordTable... " />
+                    <marker date="1493765141245" expanded="true" signature="7340:7358" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="10022:10061" ph="DELETE FROM " />
+                    <marker date="1493765141245" expanded="true" signature="10109:10152" ph="DELETE FROM " />
+                    <marker date="1493765141245" expanded="true" signature="10526:10585" ph="DELETE FROM " />
+                    <marker date="1493765141245" expanded="true" signature="10743:10764" ph="DROP TABLE I... " />
+                    <marker date="1493765141245" expanded="true" signature="11445:11460" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="11445:11463" ph="SELECT * FRO... missing_value" />
+                    <marker date="1493765141245" expanded="true" signature="11759:11847" ph="SELECT * FRO... missing_value" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TwitterScraper.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/USERS/TwitterScraper.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="682">
+                  <caret line="273" column="38" lean-forward="false" selection-start-line="273" selection-start-column="38" selection-end-line="273" selection-end-column="38" />
+                  <folding>
+                    <marker date="1493707540071" expanded="true" signature="1943:3253" ph="CREATE TABLE... missing_value" />
+                    <marker date="1493707540071" expanded="true" signature="14195:14471" ph="INSERT INTO missing_value... " />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -404,6 +352,12 @@
       <find>MYSTUFF</find>
       <find>sqlite3</find>
       <find>file_handler</find>
+      <find>&quot;Py</find>
+      <find>PycharmProjects/FlaskOne/USERS/{}/data1.db</find>
+      <find>user_database()</find>
+      <find>main_database()</find>
+      <find>user_database(</find>
+      <find>settings['U</find>
     </findStrings>
     <replaceStrings>
       <replace>charts</replace>
@@ -412,20 +366,24 @@
       <replace>model</replace>
       <replace>project</replace>
       <replace>key2</replace>
+      <replace>main_database()</replace>
+      <replace>settings['MAIN_DB']</replace>
+      <replace>settings['']</replace>
+      <replace>settings['USERS']</replace>
+      <replace>settings['USERS_DB']</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Neatto/home/templates/home/base.html" />
-        <option value="$PROJECT_DIR$/templates/Arrival/basearrive.html" />
-        <option value="$PROJECT_DIR$/templates/Arrival/form-template.html" />
-        <option value="$PROJECT_DIR$/templates/Arrival/_formhelpers.html" />
-        <option value="$PROJECT_DIR$/Functions/arrival.py" />
-        <option value="$PROJECT_DIR$/../TwitterScrape/Scraper/DataPuller.py" />
         <option value="$PROJECT_DIR$/Functions/database.y.py" />
         <option value="$PROJECT_DIR$/Functions/database.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/bffe7686-6653-4beb-b3a0-3dc703667418/console.sql" />
@@ -439,22 +397,44 @@
         <option value="$PROJECT_DIR$/USERS/test.txt" />
         <option value="$PROJECT_DIR$/USERS/YOU/_data_sources.txt" />
         <option value="$PROJECT_DIR$/templates/User/charts.html" />
-        <option value="$PROJECT_DIR$/templates/User/models.html" />
         <option value="$PROJECT_DIR$/templates/User/projects.html" />
         <option value="$PROJECT_DIR$/templates/User/groups.html" />
-        <option value="$PROJECT_DIR$/Graveyard/codeblob.py" />
         <option value="$PROJECT_DIR$/templates/User/datasources.html" />
         <option value="$PROJECT_DIR$/USERS/Admin/_data_sources.txt" />
+        <option value="$PROJECT_DIR$/gitignore.txt" />
+        <option value="$PROJECT_DIR$/README-Template.md" />
+        <option value="$PROJECT_DIR$/unittest/LoginTest.py" />
+        <option value="$PROJECT_DIR$/unittest/__init__.py" />
+        <option value="$PROJECT_DIR$/tests/__init__.py" />
+        <option value="$PROJECT_DIR$/tests/SetupTest.py" />
+        <option value="$PROJECT_DIR$/tests/New_User_Test.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tests/LoginTest.py" />
+        <option value="$PROJECT_DIR$/Graveyard/GY-manager.py" />
+        <option value="$PROJECT_DIR$/CONFIG.txt" />
         <option value="$PROJECT_DIR$/USERS/manager.py" />
+        <option value="$PROJECT_DIR$/PHPinterpreter.py" />
+        <option value="$PROJECT_DIR$/Graveyard/codeblob.py" />
+        <option value="$PROJECT_DIR$/templates/Arrival/_formhelpers.html" />
+        <option value="$PROJECT_DIR$/templates/User/data_tables.html" />
+        <option value="$PROJECT_DIR$/templates/User/TableView.html" />
+        <option value="$PROJECT_DIR$/Functions/neato.html" />
+        <option value="$PROJECT_DIR$/Functions/helloworld.py" />
+        <option value="$PROJECT_DIR$/templates/User/datasets.html" />
+        <option value="$PROJECT_DIR$/conf.py" />
+        <option value="$PROJECT_DIR$/Functions/setup.py" />
+        <option value="$PROJECT_DIR$/USERS/Admin/_data_tables.txt" />
         <option value="$PROJECT_DIR$/Functions/Arrival.py" />
         <option value="$PROJECT_DIR$/templates/User/base.html" />
-        <option value="$PROJECT_DIR$/Views/Arrival.py" />
         <option value="$PROJECT_DIR$/USERS/TwitterScraper.py" />
-        <option value="$PROJECT_DIR$/USERS/Admin/_data_tables.txt" />
-        <option value="$PROJECT_DIR$/templates/User/datasets.html" />
+        <option value="$PROJECT_DIR$/Functions/SuperTable.py" />
+        <option value="$PROJECT_DIR$/Analysis/DataPuller.py" />
+        <option value="$PROJECT_DIR$/Views/Arrival.py" />
+        <option value="$PROJECT_DIR$/Views/DynamicForm.py" />
+        <option value="$PROJECT_DIR$/Analysis/MultiBayes.py" />
+        <option value="$PROJECT_DIR$/Analysis/wordcount.py" />
+        <option value="$PROJECT_DIR$/templates/User/models.html" />
         <option value="$PROJECT_DIR$/FlaskOne.py" />
-        <option value="$PROJECT_DIR$/gitignore.txt" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -468,7 +448,7 @@
     <option name="x" value="65" />
     <option name="y" value="-4" />
     <option name="width" value="1535" />
-    <option name="height" value="799" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -487,7 +467,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -500,18 +479,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="USERS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlaskOne" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Analysis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/examples.desktop" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -540,8 +600,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FlaskOne">
-    <configuration default="false" name="Arrival" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DynamicForm">
+    <configuration default="false" name="SuperTable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -554,32 +614,32 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/Arrival.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/SuperTable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="codeblob" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Graveyard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Graveyard/codeblob.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/setup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TwitterScraper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -592,42 +652,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USERS/manager.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USERS/TwitterScraper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in codeblob.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FlaskOne" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Graveyard/codeblob.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MainStream" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="DataPuller" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TwitterScrape/Scraper" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FlaskOne" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../TwitterScrape/Scraper/MainStream.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analysis/DataPuller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DynamicForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskOne" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Views/DynamicForm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -802,19 +865,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.FlaskOne" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Arrival" />
-      <item index="2" class="java.lang.String" itemvalue="Python.codeblob" />
-      <item index="3" class="java.lang.String" itemvalue="Python.manager" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in codeblob.py" />
-      <item index="5" class="java.lang.String" itemvalue="Python.MainStream" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SuperTable" />
+      <item index="2" class="java.lang.String" itemvalue="Python.setup" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TwitterScraper" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DataPuller" />
+      <item index="5" class="java.lang.String" itemvalue="Python.DynamicForm" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MainStream" />
-        <item index="1" class="java.lang.String" itemvalue="Python.codeblob" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in codeblob.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.manager" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Arrival" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DynamicForm" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DataPuller" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TwitterScraper" />
+        <item index="3" class="java.lang.String" itemvalue="Python.setup" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SuperTable" />
       </list>
     </recent_temporary>
   </component>
@@ -829,66 +892,134 @@
       <option name="presentableId" value="Default" />
       <updated>1493092317742</updated>
     </task>
+    <task id="LOCAL-00001" summary="Editted .gitignore">
+      <created>1493369953981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493369953981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="Unittests_in_FlaskOne_py - 2017.04.28 at 12h 03m 43s.xml">
+      <configuration name="Unittests in FlaskOne.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_LoginTest_py - 2017.04.28 at 03h 46m 55s.xml">
+      <configuration name="Unittests in LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_LoginTest_py - 2017.04.28 at 03h 47m 20s.xml">
+      <configuration name="Unittests in LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_LoginTest_py - 2017.04.28 at 03h 51m 21s.xml">
+      <configuration name="Unittests in LoginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SetupTest_py - 2017.04.28 at 03h 51m 45s.xml">
+      <configuration name="Unittests in SetupTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SetupTest_py - 2017.04.28 at 23h 54m 26s.xml">
+      <configuration name="Unittests in SetupTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SetupTest_py - 2017.04.28 at 23h 54m 37s.xml">
+      <configuration name="Unittests in SetupTest.py" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_codeblob_py - 2017.04.27 at 17h 17m 07s.xml">
       <configuration name="Unittests in codeblob.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_tests - 2017.04.28 at 03h 51m 29s.xml">
+      <configuration name="Unittests in tests" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1535" height="799" extended-state="6" />
+    <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15849563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15177971" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20148148" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23579203" sideWeight="0.21428572" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41130298" sideWeight="0.49764627" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23579203" sideWeight="0.78571427" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3984576" sideWeight="0.8959033" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.007387508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33646742" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02820685" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975152" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20148148" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15849563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23579203" sideWeight="0.21428572" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41130298" sideWeight="0.49764627" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23579203" sideWeight="0.78571427" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30719796" sideWeight="0.8959033" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.007387508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21299872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15110813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975152" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Editted .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editted .gitignore" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FlaskOne.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -896,456 +1027,170 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="dbDummy://dbtable:/f6ccd815/ef7dfe97-9bda-4456-a981-f08181ccfc7a/main.users">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/tests/LoginTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/sqlite3/__init__.py">
+    <entry file="file://$PROJECT_DIR$/tests/New_User_Test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/cc4e44c0-ad53-4fcd-bc70-3cc608714629/main.users">
+    <entry file="file://$PROJECT_DIR$/USERS/qwerty/_data_sources.txt" />
+    <entry file="file://$PROJECT_DIR$/USERS/haha/_data_tables.txt" />
+    <entry file="file://$PROJECT_DIR$/USERS/haha/_data_sources.txt" />
+    <entry file="file://$PROJECT_DIR$/USERS/Johhny/_data_sources.txt" />
+    <entry file="file://$PROJECT_DIR$/Graveyard/GY-manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README-Template.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="163">
+            <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1149593235/_sqlite3.py">
+    <entry file="file://$PROJECT_DIR$/tests/SetupTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="74" column="4" lean-forward="false" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/flask/templating.py">
+    <entry file="file://$PROJECT_DIR$/USERS/Neat/_data_sources.txt" />
+    <entry file="file://$PROJECT_DIR$/USERS/Neat/_data_tables.txt" />
+    <entry file="file://$PROJECT_DIR$/PHPinterpreter.py" />
+    <entry file="file://$PROJECT_DIR$/CONFIG.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="120" column="4" lean-forward="false" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/771e9cbf-1c8b-4689-a58e-3c32906b794d/main.users">
-      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/80c27830-a9d8-43b2-9579-3e713f6e2d4d/main.users">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/flask/globals.py">
+    <entry file="dbDummy://dbtable:/f6ccd815/4644d09e-b45e-4c78-90ff-2409a8b2aefb/main.Thetable" />
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/jinja2/parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="1100">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OTHER/testingdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neatto/home/templates/home/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/3fc890ec-d810-4a91-9c84-12dd79b0c1df/main.users">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/YOU/_data_sources.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/YOU/_charts.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/39ec569f-9498-4577-8f7e-ee75b0940be1/main.users">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/groups.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/models.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/25f3a5bf-a172-4671-959f-396c2da4b43f/main.secrets">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/f9de5e0c-2fd8-4721-b970-1deee32800f1/main.secret_keys">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/cryptography/fernet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="124" column="6" lean-forward="false" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1149593235/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7540">
-          <caret line="2265" column="7" lean-forward="false" selection-start-line="2265" selection-start-column="7" selection-end-line="2265" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graveyard/codeblob.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/name/_data_tables.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/name/_data_sources.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/f9de5e0c-2fd8-4721-b970-1deee32800f1/main.secrets">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/1dc7cb15-7cc8-4866-945d-ac3710cdefac/main.secrets">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TwitterScrape/Scraper/MainStream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2233">
-          <caret line="314" column="29" lean-forward="false" selection-start-line="314" selection-start-column="29" selection-end-line="314" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1492978358539" expanded="true" signature="1727:3037" ph="CREATE TABLE... missing_value" />
-            <marker date="1492978358539" expanded="true" signature="14139:14415" ph="INSERT INTO missing_value... " />
-            <marker date="1492978358539" expanded="true" signature="15362:15548" ph="CREATE TABLE... missing_value" />
-            <marker date="1492978358539" expanded="true" signature="16003:16120" ph="INSERT INTO manager... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/eeb08461-96f7-455f-817e-d98ac361a679/main.firstone">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/manager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#1172#1574#0" expanded="false" />
-            <element signature="e#1609#1953#0" expanded="false" />
-            <element signature="e#1988#2332#0" expanded="false" />
-            <element signature="e#2371#2723#0" expanded="false" />
-            <element signature="e#2772#3200#0" expanded="false" />
-            <element signature="e#3242#3656#0" expanded="false" />
-            <element signature="e#3693#4097#0" expanded="false" />
-            <element signature="e#4134#4538#0" expanded="false" />
-            <element signature="e#4579#4991#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Views/Arrival.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/Arrival/_formhelpers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Arrival/basearrive.html">
+    <entry file="file://$PROJECT_DIR$/Graveyard/codeblob.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="106" lean-forward="false" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
-          <folding />
+        <state relative-caret-position="469">
+          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Arrival/form-template.html">
+    <entry file="dbDummy://dbtable:/f6ccd815/2a04a32c-f5fd-4d2e-9cc2-166f322b03f4/main.KeywordTable" />
+    <entry file="dbDummy://dbtable:/f6ccd815/4644d09e-b45e-4c78-90ff-2409a8b2aefb/main.sqlite_master" />
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="260">
+          <caret line="1610" column="43" lean-forward="true" selection-start-line="1610" selection-start-column="43" selection-end-line="1610" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/helloworld.py" />
     <entry file="file://$PROJECT_DIR$/templates/Arrival/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="20">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Arrival.py">
+    <entry file="file://$PROJECT_DIR$/templates/User/data_tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="220" column="8" lean-forward="false" selection-start-line="220" selection-start-column="8" selection-end-line="220" selection-end-column="8" />
+        <state relative-caret-position="170">
+          <caret line="53" column="14" lean-forward="false" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/TableView.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1738">
+          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/becfff4b-c67c-4d95-9508-0304f93f8591/main.secrets" />
+    <entry file="dbDummy://dbtable:/f6ccd815/becfff4b-c67c-4d95-9508-0304f93f8591/main.users" />
+    <entry file="file://$PROJECT_DIR$/Functions/neato.html" />
+    <entry file="file://$PROJECT_DIR$/how .">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="84" column="8" lean-forward="false" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <marker date="1493349583488" expanded="true" signature="443:1181" ph="CREATE TABLE... missing_value" />
-            <marker date="1493349583488" expanded="false" signature="1241:2020" ph="INSERT INTO users... " />
-            <marker date="1493349583488" expanded="true" signature="3047:3095" ph="SELECT COUNT... users" />
-            <marker date="1493349583488" expanded="true" signature="3062:3090" ph="SELECT id fr... users" />
-            <marker date="1493349583488" expanded="true" signature="3209:3223" ph="SELECT MAX(i... " />
-            <marker date="1493349583488" expanded="true" signature="3209:3234" ph="SELECT MAX(i... users" />
-            <marker date="1493349583488" expanded="true" signature="3443:3476" ph="INSERT INTO users... " />
-            <marker date="1493349583488" expanded="true" signature="3443:4222" ph="INSERT INTO users... " />
-            <marker date="1493349583488" expanded="true" signature="5555:5598" ph="SELECT passw... users" />
-            <marker date="1493349583488" expanded="true" signature="5555:5600" ph="SELECT passw... users" />
-            <marker date="1493349583488" expanded="true" signature="5555:5601" ph="SELECT passw... users" />
-            <marker date="1493349583488" expanded="true" signature="5634:7352" ph="SELECT id, e... users" />
-            <marker date="1493349583488" expanded="true" signature="5705:5737" ph="SELECT id, e... " />
-            <marker date="1493349583488" expanded="true" signature="5705:5935" ph="SELECT id, e... is_authenticated," />
-            <marker date="1493349583488" expanded="true" signature="7143:7184" ph="SELECT EXIST... " />
-            <marker date="1493349583488" expanded="true" signature="7143:7201" ph="SELECT EXIST... " />
-            <marker date="1493349583488" expanded="true" signature="7143:7204" ph="SELECT EXIST... " />
-            <marker date="1493349583488" expanded="true" signature="7143:7206" ph="SELECT EXIST... " />
-            <marker date="1493349583488" expanded="true" signature="7157:7184" ph="SELECT id fr... users" />
-            <marker date="1493349583488" expanded="true" signature="8298:8341" ph="SELECT * FRO... secrets" />
-            <marker date="1493349583488" expanded="true" signature="8419:8466" ph="SELECT * FRO... secrets" />
+            <element signature="e#1800#1863#0" expanded="false" />
+            <marker date="1493693101697" expanded="true" signature="1938:2790" ph="CREATE TABLE... missing_value" />
+            <marker date="1493693101697" expanded="true" signature="2862:3746" ph="INSERT INTO users... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Arrival/signup.html">
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/tweepy/streaming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="34" column="43" lean-forward="false" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+        <state relative-caret-position="240">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/User/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1136">
-          <caret line="126" column="25" lean-forward="false" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="481">
+          <caret line="128" column="74" lean-forward="true" selection-start-line="128" selection-start-column="74" selection-end-line="128" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/charts.html">
+    <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_tables.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/61d3a169-c2a8-47ed-adf0-979d59bbb935/main.Politics">
-      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/61d3a169-c2a8-47ed-adf0-979d59bbb935/main.Testing">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/f6ccd815/bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d/main.KeywordTable">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1353,103 +1198,211 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/USERS/Admin/_data_tables.txt">
+    <entry file="file://$PROJECT_DIR$/Functions/Arrival.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="215">
+          <caret line="239" column="29" lean-forward="false" selection-start-line="239" selection-start-column="29" selection-end-line="239" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1493702755123" expanded="true" signature="643:1381" ph="CREATE TABLE... missing_value" />
+            <marker date="1493702755123" expanded="true" signature="1441:2220" ph="INSERT INTO users... " />
+            <marker date="1493702755123" expanded="true" signature="3215:3263" ph="SELECT COUNT... users" />
+            <marker date="1493702755123" expanded="true" signature="3230:3258" ph="SELECT id fr... users" />
+            <marker date="1493702755123" expanded="true" signature="3377:3391" ph="SELECT MAX(i... " />
+            <marker date="1493702755123" expanded="true" signature="3377:3402" ph="SELECT MAX(i... users" />
+            <marker date="1493702755123" expanded="true" signature="3611:3644" ph="INSERT INTO users... " />
+            <marker date="1493702755123" expanded="true" signature="3611:4390" ph="INSERT INTO users... " />
+            <marker date="1493702755123" expanded="true" signature="5674:5763" ph="SELECT passw... users" />
+            <marker date="1493702755123" expanded="true" signature="5674:5765" ph="SELECT passw... users" />
+            <marker date="1493702755123" expanded="true" signature="5674:5766" ph="SELECT passw... users" />
+            <marker date="1493702755123" expanded="true" signature="5799:7689" ph="SELECT id, e... users" />
+            <marker date="1493702755123" expanded="true" signature="5870:5902" ph="SELECT id, e... " />
+            <marker date="1493702755123" expanded="true" signature="5870:6232" ph="SELECT id, e... is_authenticated," />
+            <marker date="1493702755123" expanded="true" signature="7446:7521" ph="SELECT EXIST... " />
+            <marker date="1493702755123" expanded="true" signature="7446:7538" ph="SELECT EXIST... " />
+            <marker date="1493702755123" expanded="true" signature="7446:7541" ph="SELECT EXIST... " />
+            <marker date="1493702755123" expanded="true" signature="7446:7543" ph="SELECT EXIST... " />
+            <marker date="1493702755123" expanded="true" signature="7460:7521" ph="SELECT id fr... users" />
+            <marker date="1493702755123" expanded="true" signature="8529:8554" ph="SELECT Count... missing_value" />
+            <marker date="1493702755123" expanded="true" signature="9078:9098" ph="SELECT keywo... " />
+            <marker date="1493702755123" expanded="true" signature="9078:9159" ph="SELECT keywo... {}" />
+            <marker date="1493702755123" expanded="true" signature="9078:9173" ph="SELECT keywo... {}" />
+            <marker date="1493702755123" expanded="true" signature="9078:9219" ph="SELECT keywo... KeywordTable" />
+            <marker date="1493702755123" expanded="true" signature="9078:9235" ph="SELECT keywo... KeywordTable" />
+            <marker date="1493702755123" expanded="true" signature="9500:9543" ph="SELECT * FRO... secrets" />
+            <marker date="1493702755123" expanded="true" signature="9615:9662" ph="SELECT * FRO... secrets" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/tweepy/streaming.py">
+    <entry file="file://$PROJECT_DIR$/USERS/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1538">
-          <caret line="190" column="8" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        <state relative-caret-position="42">
+          <caret line="72" column="8" lean-forward="false" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/USERS/TwitterScraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7533">
-          <caret line="466" column="21" lean-forward="false" selection-start-line="466" selection-start-column="21" selection-end-line="466" selection-end-column="21" />
+        <state relative-caret-position="682">
+          <caret line="273" column="38" lean-forward="false" selection-start-line="273" selection-start-column="38" selection-end-line="273" selection-end-column="38" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1493354297133" expanded="true" signature="1752:3062" ph="CREATE TABLE... missing_value" />
-            <marker date="1493354297133" expanded="true" signature="14004:14280" ph="INSERT INTO missing_value... " />
-            <marker date="1493354297133" expanded="true" signature="15259:15449" ph="CREATE TABLE... missing_value" />
-            <marker date="1493354297133" expanded="true" signature="15927:16046" ph="INSERT INTO manager... " />
+            <marker date="1493707540071" expanded="true" signature="1943:3253" ph="CREATE TABLE... missing_value" />
+            <marker date="1493707540071" expanded="true" signature="14195:14471" ph="INSERT INTO missing_value... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/SuperTable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1493755549813" expanded="true" signature="403:421" ph="SELECT * FRO... missing_value" />
+            <marker date="1493755549813" expanded="true" signature="488:507" ph="SELECT missi... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/DataPuller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TwitterScrape/Scraper/BagofWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TwitterScrape/Scraper/DataPuller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3520">
+          <caret line="176" column="83" lean-forward="false" selection-start-line="176" selection-start-column="83" selection-end-line="176" selection-end-column="83" />
+          <folding>
+            <marker date="1493103824966" expanded="true" signature="1154:1186" ph="INSERT INTO missing_value... " />
+            <marker date="1493103824966" expanded="true" signature="1740:1758" ph="SELECT missi... missing_value" />
+            <marker date="1493103824966" expanded="true" signature="2011:2029" ph="SELECT missi... missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f6ccd815/80d52732-3b6f-4445-8cb5-32f46dc74188/main.sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/DynamicForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/User/datasources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Arrival.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/examples.desktop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/MultiBayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/User/datasets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        <state relative-caret-position="720">
+          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gitignore.txt">
+    <entry file="file://$PROJECT_DIR$/templates/User/models.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        <state relative-caret-position="800">
+          <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analysis/wordcount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <marker date="1493763490514" expanded="true" signature="314:329" ph="SELECT * FRO... missing_value" />
+            <marker date="1493763490514" expanded="true" signature="314:332" ph="SELECT * FRO... " />
+            <marker date="1493763490514" expanded="true" signature="314:333" ph="SELECT * FRO... missing_value" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FlaskOne.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="253" column="32" lean-forward="false" selection-start-line="253" selection-start-column="32" selection-end-line="253" selection-end-column="32" />
+        <state relative-caret-position="220">
+          <caret line="250" column="26" lean-forward="true" selection-start-line="250" selection-start-column="26" selection-end-line="250" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#728#798#0" expanded="false" />
-            <element signature="e#763#798#0" expanded="false" />
-            <element signature="e#837#949#0" expanded="false" />
-            <element signature="e#981#1069#0" expanded="false" />
-            <element signature="e#1131#1156#0" expanded="false" />
-            <element signature="e#2168#2834#0" expanded="false" />
-            <marker date="1493361589178" expanded="false" signature="4013:4168" ph="CREATE TABLE... missing_value" />
-            <marker date="1493361589178" expanded="true" signature="4221:4259" ph="INSERT INTO secret_key... " />
-            <marker date="1493361589178" expanded="false" signature="4325:4574" ph="CREATE TABLE... missing_value" />
-            <marker date="1493361589178" expanded="true" signature="4623:4657" ph="INSERT INTO secrets... " />
-            <marker date="1493361589178" expanded="true" signature="4623:4661" ph="INSERT INTO secrets... " />
-            <marker date="1493361589178" expanded="true" signature="4623:9928" ph="INSERT INTO secrets... " />
-            <marker date="1493361589178" expanded="true" signature="5734:5966" ph="CREATE TABLE... missing_value" />
-            <marker date="1493361589178" expanded="true" signature="6020:6059" ph="INSERT INTO secret_keys... " />
-            <marker date="1493361589178" expanded="true" signature="8703:8739" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="8703:8742" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="8790:8829" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="8790:8833" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="9230:9272" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="9230:9288" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="9230:9289" ph="DELETE FROM " />
-            <marker date="1493361589178" expanded="true" signature="9471:9492" ph="DROP TABLE I... " />
-            <marker date="1493361589178" expanded="true" signature="9471:9494" ph="DROP TABLE I... " />
-            <marker date="1493361589178" expanded="true" signature="9814:9832" ph="SELECT * FRO... missing_value" />
+            <element signature="e#1849#2531#0" expanded="false" />
+            <element signature="e#2574#2619#0" expanded="false" />
+            <element signature="e#2863#4881#0" expanded="false" />
+            <element signature="e#7112#8498#0" expanded="false" />
+            <element signature="e#8649#8774#0" expanded="false" />
+            <element signature="e#9494#9619#0" expanded="false" />
+            <element signature="e#9692#9737#0" expanded="false" />
+            <element signature="e#9814#10251#0" expanded="false" />
+            <marker date="1493765141245" expanded="true" signature="3689:3844" ph="CREATE TABLE... missing_value" />
+            <marker date="1493765141245" expanded="true" signature="3897:3935" ph="INSERT INTO secret_keys... " />
+            <marker date="1493765141245" expanded="true" signature="4001:4250" ph="CREATE TABLE... missing_value" />
+            <marker date="1493765141245" expanded="true" signature="4299:4337" ph="INSERT INTO secrets... " />
+            <marker date="1493765141245" expanded="true" signature="5467:5699" ph="CREATE TABLE... missing_value" />
+            <marker date="1493765141245" expanded="true" signature="5753:5792" ph="INSERT INTO KeywordTable... " />
+            <marker date="1493765141245" expanded="true" signature="7340:7358" ph="SELECT * FRO... missing_value" />
+            <marker date="1493765141245" expanded="true" signature="10022:10061" ph="DELETE FROM " />
+            <marker date="1493765141245" expanded="true" signature="10109:10152" ph="DELETE FROM " />
+            <marker date="1493765141245" expanded="true" signature="10526:10585" ph="DELETE FROM " />
+            <marker date="1493765141245" expanded="true" signature="10743:10764" ph="DROP TABLE I... " />
+            <marker date="1493765141245" expanded="true" signature="11445:11460" ph="SELECT * FRO... missing_value" />
+            <marker date="1493765141245" expanded="true" signature="11445:11463" ph="SELECT * FRO... missing_value" />
+            <marker date="1493765141245" expanded="true" signature="11759:11847" ph="SELECT * FRO... missing_value" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>

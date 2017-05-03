@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="identifier.sqlite" uuid="bffe7686-6653-4beb-b3a0-3dc703667418">
-      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
-      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <secret-storage>master_key</secret-storage>
-      <auth-required>false</auth-required>
-      <introspection-schemas>*:main</introspection-schemas>
-    </data-source>
-    <data-source name="data" uuid="bd54f1f2-ef59-4e56-8c6d-7a15ee40d19d">
+    <data-source name="data" uuid="cbcad701-6c38-443f-a694-993348fd006f">
       <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
-    <data-source name="data1" uuid="61d3a169-c2a8-47ed-adf0-979d59bbb935">
+    <data-source name="data1" uuid="80d52732-3b6f-4445-8cb5-32f46dc74188">
       <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
       <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <introspection-schemas>*:main</introspection-schemas>
+      <introspection-schemas>*</introspection-schemas>
     </data-source>
   </component>
 </project>
